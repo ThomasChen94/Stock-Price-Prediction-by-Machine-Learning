@@ -1,0 +1,32 @@
+Twitter’s ($TWTR) third quarter earnings are out, and even while being overshadowed by news about layoffs and failed interest from potential buyers, it generated $616 million in revenue and an earnings per share (EPS) of $0.13. Wall Street analysts had expected the company to bring in $605.8 million in revenue, with an EPS of $0.09, so Twitter has outperformed what many expected for the last quarter.
+
+Advertising represented the majority of Twitter’s revenue at $545 million, with data licensing and “other” making up the rest.
+
+Twitter Revenue
+Above: Twitter Revenue
+As for users, Twitter reported that it now has 317 million users, up from 313 million from last quarter and 307 million from Q3 2015 — that represents a growth of 3 percent on last year.
+
+As part of today’s earnings release, Twitter also confirmed that it’s laying off 9 percent of its workforce, which equates to around 350 people. This follows reports that surfaced earlier this week that Twitter was planning to significantly trim its headcount.
+
+“Our strategy is directly driving growth in audience and engagement, with an acceleration in year-over-year growth for daily active usage, Tweet impressions, and time spent for the second consecutive quarter,” said Twitter CEO Jack Dorsey. “We see a significant opportunity to increase growth as we continue to improve the core service. We have a clear plan, and we’re making the necessary changes to ensure Twitter is positioned for long-term growth. The key drivers of future revenue growth are trending positive, and we remain confident in Twitter’s future.”
+
+Though Twitter has beaten estimates, it’s worth noting here that the company still doesn’t turn a profit. The company made a net loss of $103 million between July and September this year, down from $107 million the previous quarter and $132 million year-on-year.
+
+Twitter: Quarterly Net Loss ($, millions)
+Above: Twitter: Quarterly Net Loss ($, millions)
+Stocks have yet to open, as Twitter’s earnings announcement was rescheduled in an effort to appease analysts who had to also cover the financial results of other companies being released on Tuesday. However, yesterday its stock closed up 0.17 percent at $17.29.
+
+FindTheCompany | Graphiq
+
+The story so far
+As Twitter seeks to right itself and push forward with its five core strategic opportunities, investors appear to be wary about whether there’s any chance of the company surviving as an independent entity. A few weeks ago, there was chatter about Twitter being acquired, with likely suitors being Disney, Google, and Salesforce, but bit by bit, each one dropped out, with Salesforce CEO Marc Benioff remarking that Twitter didn’t appear to “be the right fit.” There was also speculation that SoftBank might be willing to toss its hat in the ring, but that doesn’t appear to have materialized.
+
+But Twitter has certainly been trying to put itself on a path to prosperity, seeing some decent viewership numbers from its livestreaming of the NFL’s Thursday Night Football games, additional network and broadcast partnerships, new advertising options, and also a new Periscope VIP program and tool that lets professional broadcasters upgrade their live video.
+
+It’s been more than a year since Dorsey was named Twitter’s permanent CEO, replacing Dick Costolo. Originally the company stated it wanted a dedicated leader, not one who would split their time between two companies. However, the selection of Dorsey proved otherwise, as he’s now the CEO of both Twitter and Square, two public companies. On stage at the Money 20/20 event this week, he defended his situation:
+
+“I want to work on things that people interact with every single day, and that empower them in particular ways, and finance and commerce is one such [way] and communication is another.”
+
+While he might think he can balance being a dual-CEO, even with the artificial stock bumps from rampant reports of potential buyers, the company’s stock is down more than 40 percent over the past 52 weeks.
+
+This has contributed to the hard decisions Twitter is reported to be making: another round of layoffs. Bloomberg reported earlier this week that the company would cut another 8 percent of its workforce, with some saying that it would be sales people. This is unfortunately the second time mass layoffs have happened in the past year, both under Dorsey’s leadership. In 2015, Twitter laid off 336 people, or 8 percent of its then-workforce, with a focus on making the company more agile and employing people with skill sets “purpose-built” for his vision.

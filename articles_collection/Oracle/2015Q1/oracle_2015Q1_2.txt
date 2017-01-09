@@ -1,0 +1,15 @@
+  
+
+Oracle ORCL +0.42% reported disappointing earnings to close out its fiscal year on Wednesday, trailing Wall St. expectations on what it said were consequences of a strengthening exchange rate for the U.S. dollar. The company reported earnings of $0.78, $0.09 below consensus of $0.87 earnings per share. Oracle reported revenue of $10.7 billion, $0.25 behind Street predictions.
+
+Billionaire Larry Ellison’s company played defense in their release on the results, noting that the company’s revenues would have been up 3% year-to-year in constant currency. But that’s not the case for its bottom line. Earnings per share were down 14% and 5% in constant currency.
+
+Oracle has gradually shifted its positioning in the market to promote the catch-up game it’s playing in the cloud, but software and cloud revenues didn’t make a ton of progress overall, down 6% and up 2% in constant currency at $8.4 billion. The company showed better growth when just considering its cloud software-as-a-service and platform-as-a-service, which grew 29%, and cloud infrastructure, which grew 25%. Oracle’s legacy hardware business was down 4% at $1.4 billion.
+
+In the release, CEO Safra Catz pointed to Oracle’s growing SaaS and PaaS revenue as a positive sign. 30% growth for a public company is often a benchmark for positive momentum in such a business; Catz claimed that the company will improve that growth from 34% at constant currency this past quarter to 60% for the upcoming fiscal year. Fellow CEO Mark Hurd pointed to bookings growth in those businesses of more than 200% to claim that Oracle’s customer pipeline is strong.
+
+“Currencies continue to move significantly and remain unpredictable,” Catz said on the company’s earnings call after the results. “We are delighted with our results and in particular we dramatically overachieved on the cloud.”
+
+Overall revenue for the fiscal year was flat, given the currency headwinds. Non-GAAP earnings for the full year were also down 3%.
+
+Oracle got hit harder by the currency pressures of a strengthening dollar than the company had anticipated a quarter ago, says analyst Bill Kreher of Edward Jones . That and the shift to subscription revenue away from its software licenses has led to ongoing “growing pains” for the company. Analysts are watching to see if Oracle can grow its top-line revenue while it moves to the cloud and takes on the companies it targeted on the call, Workday and Salesforce.com CRM -0.30%, which beat earnings estimates last month. Hurd mentioned “primary cloud competitors” slowing revenue growth by comparison; Ellison, the company’s chairman and CTO, was even more direct.

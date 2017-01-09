@@ -1,0 +1,14 @@
+Facebook, which is preparing for its initial public offering, posted revenues that continued to increase in the first quarter of 2012, but net income was down compared to the year-ago period. Facebook cited seasonal trends and stock based compensation for the decline, in an updated S-1 filing Monday.
+
+Facebook posted first quarter 2012 revenues of $1.058 billion, up 45% year over year from $731 million. Net income however was down, at $205 million, from $233 million in the year-ago period.
+
+Facebook’s user base continued to increase, with 901 million monthly active users as of March 31, 2012, up 33% from the year-ago period. Daily active users were 526 million on average in March, up 42% from 372 million a year ago. Facebook users generated an average of 3.2 billion Likes and Comments per day  in the first quarter of 2012. On mobile, Facebook had 488 million monthly active users in March.
+Facebook partially explained the drop in net income by citing traditional strong fourth quarters. This along with slower growth or declines in first quarters could partially explain the drop in net income. These trends may have been masked in the past by Facebook’s rapid growth, the company said:
+
+“For instance, our advertising revenue increased 64%, 46%, and 18% between the third and fourth quarters of 2009, 2010, and 2011, respectively, while advertising revenue in the first quarter of 2010 increased 5% as compared to the fourth quarter of 2009 and advertising revenue for the first quarter of 2011 and 2012 declined 3% and 8% compared to the fourth quarters of 2010 and 2011, respectively.”
+
+Facebook’s explanation of the increase in expenses focused on stock-based compensation:
+
+“Our net income in the first quarter of 2012 decreased compared to the same period in 2011. Total costs and expenses grew more than revenue, due in particular to a significant increase in share-based compensation expense for Post-2011 RSUs during the first quarter of 2012, which expense was not significant in the first quarter of 2011 due to the timing of RSU grants.”
+
+In terms of average revenue per user (ARPU), a closely watched metric, Facebook had $1.21 ARPU in the first quarter of 2012, an increase of 6% from the year-ago period. But ARPU declined on a sequential basis 12% from the fourth quarter of 2011. Facebook again cited seasonal trends for the decline. Last year, ARPU declined from the fourth quarter of 2010 to first quarter of 2011 by 10%. Also, the rate of user growth was higher in the first quarter of 2012 in areas with lower ARPU.

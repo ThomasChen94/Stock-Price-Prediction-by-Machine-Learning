@@ -1,0 +1,21 @@
+If you keep tabs on tech news, financial news, or simply haven’t been living on a deserted island, you may have noticed that Facebook held an initial public offering of its stock and started trading on the NASDAQ stock exchange a few months ago. This afternoon, its shareholders got their first official update on how things have been going for the social network since its much-buzzed-about initial public offering.
+
+Facebook today announced its financial results from the second fiscal quarter of 2012, which has been its first quarter as a publicly-traded company. The company took in $295 million in non-GAAP net income on $1.18 billion of top-line revenue during Q2. That translates to $0.12 non-GAAP earnings per share (EPS), in line with the mean of analysts’ estimates for the quarter.
+
+This quarter’s revenue represents a 12 percent boost from its first quarter 2012 sales of $1.05 billion, while the non-GAAP net income is up about 44 percent quarter-over-quarter from the $205 million in profit Facebook posted for the first quarter of this year. The numbers are also up on a year-over-year basis: Revenue is 32 percent higher than Q2 2011’s revenue of $895 million, while the non-GAAP net income is up slightly less significantly, by 3.5 percent year-over-year compared to $285 million in Q2 2001.
+
+
+Facebook performance on a GAAP basis
+
+
+Facebook Q2 performance on a non-GAAP basis
+
+It’s important to note that there are major differences in the non-GAAP (generally accepted accounting practices) and GAAP figures in Facebook’s Q2 report. While it’s typically best to view things through the GAAP lens, this is an exceptional time for Facebook, having just conducted the biggest IPO in recent tech history which required the company to shell out significant amounts of money this past quarter that have nothing to do with its core business. So we’re looking at Facebook’s non-GAAP figures, since they more clearly show the company’s actual performance in a way that can be compared to its history.
+
+A wilting market response?
+
+It’s a key day for Facebook, which has not been received by the public markets as well as many might have hoped. The company debuted on the NASDAQ on May 18th with a $38 per share IPO price, but since its stock price has hovered well below that, mostly in the $20s.
+
+Facebook’s earnings were issued after the markets closed on Thursday, so the full response of the stock market won’t be felt until tomorrow at the earliest. But Facebook stock took a definite hit in after-hours trading: Two hours after the earnings release, Facebook’s stock price was down eight percent to $24 per share, which represents an all-time low. Even though the results were in line with analysts’ expectations, it seems that many investors were hoping for a stronger performance — or, perhaps, more transparency from Facebook execs about the company’s growth plans for the months ahead.
+
+It bears mention that even before the Q2 results were posted, Facebook’s stock had already started to take a bit of a beating in light of the negative reaction that Zynga has received since its financial report yesterday. The businesses of Zynga and Facebook are closely tied together, and Zynga blamed many of its Q2 financial woes on recent changes to the Facebook platform.

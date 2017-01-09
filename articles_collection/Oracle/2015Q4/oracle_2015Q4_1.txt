@@ -1,0 +1,19 @@
+Oracle delivered quarterly earnings on Tuesday that topped analysts' expectations, but fell short of revenue projections.
+
+For its fiscal third-quarter results, the business technology giant posted adjusted earnings of 64 cents per share on $9.01 billion in revenue.
+
+Analysts had expected Oracle to report earnings of about 62 cents a share on $9.12 billion in revenue, according to a consensus estimate from Thomson Reuters.
+The company's shares were up more than 4 percent after the bell on Tuesday.
+
+It also announced that its board authorized the repurchase of up to an additional $10 billion of common stock under its existing share repurchase program in future quarters.
+
+
+Oracle, like other established tech companies, is moving its business to the cloud by providing services remotely through data centers versus selling installed software.
+
+Cloud software as a service (SaaS) and platform as a service (PaaS) revenue was $583 million, up 57 percent in U.S. dollars and up 61 percent in constant currency. Cloud infrastructure as a service (IaaS) revenue was $152 million, down 2 percent in U.S. dollars and up 2 percent in constant currency.
+"In absolute dollar terms, Oracle is already selling more enterprise SaaS and PaaS new cloud revenue than any other company in the world — including Salesforce.com," said Larry Ellison, Oracle executive chairman and CTO, in a statement. "We are growing much faster than Salesforce.com. We also have many more SaaS products than Salesforce.com. In some of our most important SaaS markets, such as ERP, HCM, supply chain and manufacturing, Salesforce.com does not participate at all."
+
+Last year, Oracle unveiled a host of new cloud-based services including databases with an emphasis on cybersecurity. 
+The company has been investing in its cloud services by focusing on both platform and service infrastructure.
+
+"The technical infrastructure that actually drives our cloud is extreme and it benefits us in the long run in margins," Oracle CEO Mark Hurd told CNBC in October.

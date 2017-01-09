@@ -1,0 +1,128 @@
+It's a big beat on both revenues and EPS, and the stock popped up 15% immediately in after hours trading.
+
+But then it gave up most of those gains when CFO David Ebersman said the company had seen a small reduction in use by teens. (More detail on that below.)
+
+So it's a mixed bag: Facebook continues to surprise investors with the size of its business, and how it continues to increase.
+
+But no one at Facebook has ever admitted before that it may be losing teens. Ebersman said the stats were not significant: "We did see a decrease in daily users partly among younger teens. ... This is of questionable significance."
+
+The market, however, thought otherwise. FB had been up as much as 15% after hours but when investors heard that they sold heavily and wiped out all its gains, leaving the stock 1% or 2% below its close for the day.
+
+The reason: Investors bet on the future, not what just happened. And if kids are losing interest in Facebook that could create headwinds in terms of future user growth.
+
+Here's how it happened:
+
+Earnings per share: 25 cents - that's a beat.
+Revenues: $2.02 billion - that's a beat.
+Monthly active users: 1.19 billion (1.155 billion Q2).
+Daily active users:  728m  (699m in Q2).
+Mobile daily active users: 507 million (469 m in Q2).
+Mobile monthly active users: 874 million (819m in Q2)
+Mobile only monthly active users: 254 million (219m in Q2)
+Mobile advertising was 49% of revenue.
+Net income: $425 million.
+The full results are here. Now for some charts!
+
+Facebook's business only gets bigger:
+
+Facebook revenues q3 2013
+Facebook
+
+As does the size of its user base:
+Here's how that breaks down, as crunched by our colleagues at Business Insider Intelligence. Notice that Facebook is basically a mobile app now, not a desktop platform:
+
+bii fb maus facebook users mobile
+Business Insider Intelligence
+
+Here's how the revenue share has changed over time:
+
+bii fb ad rev facebook revenues q3 2013
+Business Insider Intelligence
+
+Analysts had been expecting:
+
+Earnings per share: 19 cents
+Revenues: $1.91 billion
+Facebook stock was trading around $49 all day, down from a recent high of $54.22 but up 50% since July. Some analysts have price targets of $65 for Facebook.
+
+Now for the conference call with analysts:
+
+CEO Mark Zuckerberg is playing up the size and share of his audience that is on mobile.
+
+Connecting the world: The web is only growing at 9% a year. "We want to change this." Facebook has a program with Samsung and others to connect everyone on the planet.
+
+20% of time in the U.S. spent in apps is on Facebook, according to comScore, Zuckerberg says.
+
+News Feed: "This is just the start of what's possible." He wants anyone to be able to ask any question on Facebook and get an answer.
+
+Graph Search: We started testing post search, which searches the entire FB archive of all posts ever made. "The Graph Search is bigger than any other index out there."
+
+Instagram: 150 MAU's. (That number hasn't changed in while, FYI.)
+
+Messenger: Will continue to be built out.
+
+Facebook A.I.: Facebook's artificial intelligence unit based on Facebook's data. Speech recognition may also be coming!
+
+Ads: Trying not to just throw ads at people. The average daily active is engaging with more than 1 ad per week. That's more than expected.
+
+Zuck trots out his mantra from the S-1 over a year ago: "We don't build services to make money, we make money to build better services."
+
+COO Sheryl Sandberg:
+
+Ad revenue: grew 66% to 1.8 billion, mobile ad revenue was 49% of that.
+
+For the first time ever, people will spend more time in digital media than with TV.
+
+The number of advertisers in EMEA is now nearly equal to those in the U.S.
+
+They're trying to improve targeting.
+
+She gives a shout out to mobile app install ads and mobile app engagement ads — again. (This is a favorite area of Sandberg's.)
+
+"Brand marketers aren't moving as quickly as we would like."
+
+Preferred Marketing Developers: "Hundreds ... across 45 countries." (Hmm - no actual numbers? it used to be 300 or so companies.)
+
+"We're in the early stages of a major transformation in advertising."
+
+CFO David Ebersman goes into the financials.
+
+"Daily actives on the web declined year over year." (Wow! But not a surprise - they are transferring to mobile. Nonetheless, that's probably Facebook's first ever web traffic decline.)
+
+Youth engagement on Facebook: "this is a hard issue for us to measure ... we've developed other analytic methods. ... our best announcement on youth usage [is that] among U.S. teens was stable overall from Q2 to Q3 but we did see a decrease in daily users partly among younger teens."
+
+"This is of questionable  significance ... but we wanted to share this with you now because we get a lot of questions about teens."
+
+"We remain close to fully penetrated among teens in the U.S." (Wow! Again! That is huge - first ever decline in teens on facebook of any kind.)
+
+
+Now questions from Wall Street!
+
+... some detailed stuff about the advertiser base and revenues from Sandberg ...
+
+Is Facebook more of a direct response business? ... Sandberg goes into detail about measurement. Measurement is one of Facebook's key issues in its battle with competitors.
+
+Sandberg: Mondelez gets a 5X return on adspend for a campaign on Nilla wafers, for instance.
+
+Sandberg: "Brands will have to be convinced account by account that Facebook moves products off shelves." (It's war!)
+
+Video ads - where the heck are they? Zuck: "having clips that autoplay can be a good experience in the feed. ... this is an important launch for Facebook overall. ... if we do it poorly it could also be a negative thing ... we're taking our time..."
+
+Zuck: "For post search we indexed close to a trillion posts in the system." ... an amazing base on knowledge has been built up, now we're trying to find different ways to make that more useful." Big focus over next few years.
+
+How many advertisers at end of quarter? Sandberg: 1 million last quarter ... continues to grow ... we have 20 million small businesses of some kind have Pages so obviously just a fraction of those are advertisers. "It's really hard to get small businesses to use tech products." So there's a lot of growth left there, she's trying to say.
+
+Sandberg: "The mobile app install ad market didn't even exist a few years ago ... we're pretty excitted about this part of the market because we think it can grow so quickly."
+
+Are hashtags strategically important in social graph? (Context: Twitter!) Zuck: "We are putting some more effort into public and private content on Facebook. ... we have efforts in all those areas." (That was a very, very vague answer. Zuck seemed a bit fased by it.)
+
+Sandberg: Plenty of ad categories are under-penetrated, she says.
+
+Finally someone — Rich Greenfield from BTIG — asks about Instagram! (He basically says Facebook's regular ads aren't that creative.) Sandberg: "Small test of 10 advertisers on Instagram." ... "They're meant to be as exciting and engaging as the content." She offers no specifics or concrete details.
+
+These were the issues we were watching and listening for prior to the call:
+
+Instagram: The company just launched ads on the photo sharing platform. Will it affect revenue guidance?
+Video ads: Facebook keeps delaying the launch of these auto-play spots that are reportedly coming with a hefty price tag in the millions.
+Mobile app install ads: Facebook has made a big deal of the success of these ad units which urge people to download stuff onto their phones. Will we get new numbers?
+Forrester: The research group put out a much-criticized report this week. We'll see if CEO Mark Zuckerberg or COO Sheryl Sandberg feel stung enough by it to make some anti-Forrester zingers.

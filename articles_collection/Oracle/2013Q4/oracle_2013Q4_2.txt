@@ -1,0 +1,42 @@
+REDWOOD SHORES, Calif., March 18, 2014 -- Oracle Corporation (NYSE: ORCL) today
+announced that fiscal 2014 Q3 total revenues were up 4% to $9.3 billion. New software licenses
+and cloud software subscriptions revenues were up 4% to $2.4 billion. Software license updates
+and product support revenues were up 5% to $4.6 billion. Hardware systems products revenues
+were up 8% to $725 million. GAAP operating income was up 7% to $3.6 billion and the GAAP
+operating margin was 38%. Non-GAAP operating income was up 5% to $4.4 billion, and the
+non-GAAP operating margin was 47%. GAAP net income was up 2% to $2.6 billion, while nonGAAP
+net income was unchanged at $3.1 billion. GAAP earnings per share were up 8% to
+$0.56, while non-GAAP earnings per share were up 5% to $0.68. GAAP operating cash flow on
+a trailing twelve-month basis was up 10% to $15 billion.
+Without the impact of the US dollar strengthening compared to foreign currencies,
+Oracle’s reported Q3 GAAP earnings per share would have been up 10% and non-GAAP
+earnings per share would have been up 7%. In addition, GAAP and non-GAAP earnings per
+share both include a non-operating $0.02 per share loss this quarter as a result of exchange rate
+changes in Venezuela as compared to $0.01 last year. Excluding the impact of the US dollar
+strengthening compared to foreign currencies and excluding Venezuela’s exchange loss impact
+on both reporting periods, Oracle’s reported Q3 GAAP earnings per share would have been
+$0.59, up 12%, and non-GAAP earnings per share would have been $0.71, up 8%. GAAP and
+non-GAAP total revenues also would have been up 6%. GAAP new software licenses and cloud
+software subscriptions revenues would have been up 6% and non-GAAP new software licenses
+and cloud software subscriptions revenues would have been up 5%. Hardware systems product
+revenues would have been up 10%.
+“In constant currency, our Cloud Software Subscriptions revenues grew 25% and our
+Engineered Systems revenue grew more than 30% in the quarter,” said Oracle President and
+CFO, Safra Catz. “Oracle Cloud Applications and Engineered Systems are both rapidly growing,
+billion dollar run-rate businesses. Those two high-growth businesses helped us deliver record
+year-to-date operating cash flow, and a record $15 billion of operating cash flow over the past
+twelve months.”
+“Sales of Oracle’s Cloud Applications accelerated sharply in the quarter with bookings
+growth of over 60%,” said Oracle President Mark Hurd. “Our quarterly Cloud Application
+revenue is now approaching $300 million. All of our strategic Cloud Application Suites,
+including Fusion Enterprise Resource Planning, Fusion Human Capital Management and Fusion
+Customer Experience, posted triple-digit revenue growth.”
+“Oracle’s Engineered Server Systems, including Exadata and SPARC SuperClusters,
+achieved over a 30% constant currency growth rate in the quarter, while throughout the industry
+traditional high-end server product lines are in steep decline,” said Oracle CEO, Larry Ellison.
+“Our Engineered Systems business is growing rapidly for the same fundamental reason that our
+Cloud Applications business is growing rapidly. In both cases, customers want us to integrate the
+hardware and software and make it work together, so they don’t have to.”
+The Board of Directors declared a quarterly cash dividend of $0.12 per share of
+outstanding common stock. This dividend will be paid to stockholders of record as of the close
+of business on April 8, 2014, with a payment date of April 29, 2014

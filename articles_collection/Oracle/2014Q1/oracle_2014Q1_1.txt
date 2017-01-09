@@ -1,0 +1,40 @@
+Oracle turned in its final earnings report for the 2014 fiscal year on Thursday after the bell, and the results were less than expected.
+
+
+MORE FROM ORACLE OPENWORLD 2013
+
+Oracle promises 100x faster queries with new in-memory option for databases
+SAP responds to Oracle's in-memory debut: 'Welcome to the party'
+Oracle's SaaS strategy may reflect upcoming complications
+OpenWorld 2013: Oracle playing it safe with big data approach
+Freescale, Oracle partner on Internet of things Java push
+The hardware and software giant ended up with a Q4 net income of $3.6 billion, or 80 cents per share (statement).
+
+Non-GAAP earnings were 92 cents per share on a revenue of $11.3 billion, up three percent annually.
+
+Wall Street was looking for earnings of 95 cents per share on a revenue of $11.48 billion.
+
+The Redwood Shores, Calif.-headquartered corporation attributed part of the problem to "a non-operating loss caused by exchange rate changes in Venezuela," adding that this caused GAAP and non-GAAP earnings per share to be reduced by two cents a pop.
+
+As a result, Oracle shares started to tumble by as much as 8.4 percent in after-hours trading, according to MarketWatch.
+
+Revenue was still up when broken down by department as well. Software and cloud services revenue totalled approximately $8.9 billion for the quarter, up four percent year-over-year.
+
+Oracle president and chief financial officer Safra Catz highlighted the cloud department, citing that particular subscription business is on track to a run rate of roughly $2 billion per year.
+
+
+Bandwidth Analyzer Pack: Your ONE network monitoring and traffic analysis tool
+SolarWinds® Bandwidth Analyzer Pack streamlines troubleshooting and consolidates the multiple tools to simplify detection, diagnosis,and resolution. Download the free, fully functional 30-day trial of SolarWinds® Network Bandwidth Analyzer Pack now!
+Downloads provided by SolarWinds
+Also focusing on the cloud while touting Oracle as "the second largest SaaS company in the world," CEO Larry Ellison reflected on the Software-as-a-Service market in prepared remarks:
+
+In SaaS, we’re in front of everybody but salesforce.com. In IaaS we’re larger and more profitable than Rackspace. We have by far the most complete portfolio of modern SaaS and PaaS products in the industry: CRM: Sales, Service & Marketing; HCM: HR, Payroll & Talent; ERP: Accounting, Procurement, Supply Chain & more. All these SaaS products run on the world’s most powerful PaaS: the Oracle in-memory multitenant database and Java. We plan to increase our focus on the Cloud and become number one in both the SaaS and the PaaS businesses.
+SaaS and PaaS subscriptions jumped by 25 percent $322 million during the fourth quarter, while IaaS subscription increased by 13 percent to $128 million.
+
+Oracle president Mark Hurd chimed in with a hardware note, boasting that Oracle has "transformed Sun’s commodity hardware business into a profitable and growing Engineered Systems business."
+
+Hurd projected that Oracle expects to ship its 10,000th unit of Engineered Systems during the current quarter.
+
+For fiscal year 2014, Oracle delivered revenue of $38.3 billion, also up three percent annually.
+
+For the first quarter of fiscal 2015, Wall Street expects Oracle to deliver earnings of 64 cents per share on a revenue of $8.78 billion.

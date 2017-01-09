@@ -1,0 +1,43 @@
+Oracle published its first quarter financial results after the bell on Wednesday and the results aren't going to ease fears about the company's growth prospects.
+
+The tech giant reported a net income of $1.75 billion, or 40 cents per share (statement).
+
+
+Non-GAAP earnings were 53 cents per share on revenue of $8.45 billion, down from $8.6 billion a year earlier.
+
+
+Buying a PC on Black Friday? Here are five trends to watch out for
+Internet of Trash: The printable electronics you can just throw away
+Nintendo's NES Classic shortage hurts fans and itself
+IBM's computer vision research zeroes in on identifying skin cancer
+Wall Street was looking for earnings of 52 cents per share with revenue of $8.53 billion.
+
+Oracle shares ticked around slightly in after-hours trading, but leveled out at less than one percent below its value at the close of the market.
+
+Concerns over the impact of cloud growth on Oracle's traditional software license revenue were not unfounded, as the segment declined 16 percent year-over-year.
+
+Software and Cloud revenues for the quarter totaled $6.5 billion, a drop of 2 percent year-over-year. Cloud revenues alone were $611 million, whereas analysts were looking for an average of $630 million.
+
+
+Bandwidth Analyzer Pack: Your ONE network monitoring and traffic analysis tool
+SolarWinds® Bandwidth Analyzer Pack streamlines troubleshooting and consolidates the multiple tools to simplify detection, diagnosis,and resolution. Download the free, fully functional 30-day trial of SolarWinds® Network Bandwidth Analyzer Pack now!
+Downloads provided by SolarWinds
+All told analysts expected total software and cloud revenue of $6.58 billion.
+
+The Redwood Shores, Calif.-based company continues to blame the string of disappointing results on the stronger US dollar. Adjusting for currency fluctuations, Oracle said revenue would have increased 7 percent, though new software licenses wouldn't have fared much better.
+
+As usual, Oracle founder, chairman and CTO Larry Ellison called out its long-time partner/competitor on the cloud revenue race.
+
+We are still on target to book between $1.5 and $2.0 billion of new SaaS and PaaS business this fiscal year. That means Oracle would sell between 50 percent more and double the amount of new cloud business than Salesforce.com plans to sell in their current fiscal year.
+On a conference call with analysts, CEO Safra Catz said: "We feel very good about the progress of our cloud transition."
+
+Catz said that SaaS and PaaS revenue for the second quarter will post growth of 36 percent to 40 percent with infrastructure as a service growing at a 5 percent to 9 percent clip. Total cloud and on-premise software will be flat to up 2 percent.
+
+Non-GAAP earnings in the second quarter will be between 63 cents a share to 66 cents a share in constant currency.
+
+For the fiscal year, Oracle sees SaaS and PaaS revenue up about 50 percent with on premise software up about 1 percent.
+
+Ellison said:
+
+Over the last three years, we've been in the start up phase of our cloud business. We've developed services at all four layers of the cloud. We have deployed cloud services in 19 data centers and 14 countries around the world. We now have in place the physical infrastructure to dramatically expand our cloud customer base. We are entering the rapid growth scale out phase of our cloud business.
+For the current fiscal year analysts expect total revenue of $38.2 million and software revenue of $29.7 million.

@@ -1,0 +1,29 @@
+Twitter reported its first quarter earnings today, and they came in under expectations: the company's haul of $595 million was less than the $607.8 million that analysts expected, and so is the $590 million to $610 million it expects to make in the current quarter. The company added 5 million users, for a total of 310 million — more than Wall Street expected, but well short of the growth that would allow it to siphon significant advertising revenue from Facebook and Google. Twitter's stock fell more than 12 percent after hours as the market confronted reality: nothing Twitter has done to improve the appeal of its core product over the last year has resonated.
+
+Here are some things Twitter has done over the past year in an effort to become more approachable to a mainstream audience:
+
+Replaced CEO Dick Costolo with co-founder Jack Dorsey
+Launched Moments, a tab of Twitter highlights curated by an in-house team and aimed at new users
+Launched a television ad campaign
+Improved tools to report harassment and abuse
+Began sorting tweets in the timeline by quality rather than recency
+Replaced "favorites" with "likes"
+Allowed longer direct messages
+Added polls
+Integrated Periscope into the Twitter timeline
+Individually, most of the changes Twitter has made to its core product have been welcome, if overdue. The company has not alienated the service's core users in large numbers — no small feat. And Twitter still feels as culturally relevant as ever. But collectively, changes to the product have failed to broaden the appeal of the core service, even as its rivals continue to grow.
+
+FAILING TO BROADEN THE APPEAL OF THE CORE SERVICE
+
+Marketers have withheld their advertising dollars accordingly — as analyst Ben Thompson wrote, while Twitter has retained its big brand advertisers, it has failed to develop an enormous self-serve ad platform in the manner of Google and Facebook. (An example of self-serve ads would be app install ads, which have been tremendously successful at Facebook and much less so at Twitter.) It's simply not clear that Twitter is as effective at direct marketing efforts as its rivals, and its revenues have suffered accordingly.
+
+Twitter's response last quarter, which it reiterated constantly in its earnings call today, is that its focus is on live events. The company repeatedly touted the power of its live-streaming app, Periscope, and the value of video advertising around those events. But it is no longer alone in live — after years of false starts, Facebook has invested heavily in live video over the past eight months.
+
+In some cases, Facebook simply copied successful aspects of Periscope. But it has also been savvy in diverting the attention of celebrities and the media from Twitter, offering them cash to participate and a larger audience for their videos. (Facebook videos also don't disappear after 24 hours, as they do on Periscope — a crucial differentiator for publishers and individuals who are hoping to reach the biggest possible audience.) And Facebook boldly put video front and center in its flagship app, with frequent prompts for users to try live video. Twitter, by contrast, keeps Periscope as a separate brand, and has moved relatively slowly in integrating it with the main app. (It's a year later, and you still can't start a live broadcast from inside the Twitter app.)
+
+periscope fail 
+Twitter's earnings call, as it appeared in my Safari browser today
+
+Asked about Facebook today, Dorsey was casually dismissive. "We've been doing live for 10 years, and we believe we have a leadership potential in it," Dorsey said, before catching himself. "A leadership position in it." The slip was telling. When it acquired Periscope, Twitter really did have a leadership position in live video. But Facebook moved faster, and with characteristic aggression, and now it threatens to leave Twitter's efforts around video permanently sidelined. Today Periscope still has potential, but it's increasingly hard to argue that it's the leader in either audience or product experience.
+
+On June 11th, it will be one year since Costolo left his CEO post and Dorsey returned, promising radical change. And Twitter today indeed looks different than it did a year ago. But it remains unprofitable, its user numbers are flat, and its chief rival, Facebook, is looting it for parts (and executives). For a long time pundits have called for product changes to fix Twitter. But after a year of changes, it's time to acknowledge that Twitter's problems are much larger.

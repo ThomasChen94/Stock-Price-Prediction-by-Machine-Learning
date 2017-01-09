@@ -1,0 +1,33 @@
+Oracle Corp. reported fiscal second-quarter sales and profit that topped analysts’ estimates as customers bought software and high-end hardware to support a shift to computing over the Web.
+
+Revenue for the period that ended in November climbed 2 percent to $9.28 billion, while profit excluding some items was 69 cents a share, the company said in a statement today. The average estimate of analysts was $9.18 billion in sales and earnings of 67 cents, according to data compiled by Bloomberg.
+
+The enterprise software industry is in the middle of a broad transition to deliver software via online subscriptions, which is sapping revenue and profit growth for traditional suppliers. Chief Executive Officer Larry Ellison has spent $50 billion to acquire about 100 companies over the past decade, seeking to keep the world’s largest database software maker relevant to businesses delivering cloud software.
+
+“You have a company with entrenched businesses and durable cash flow,” said Brad Zelnick, an analyst at Macquarie Capital USA Inc., who has the equivalent of a hold rating on the shares. “Valuation-wise it looks very attractive even with the top line under stress.”
+
+Shares of Redwood City, California-based Oracle rose as much as 3.6 percent in extended trading. The stock advanced 2.9 percent to close at $34.60 in New York, leaving it up 3.8 percent this year, compared with a 27 percent increase in the Standard & Poor’s 500 Index.
+
+Net income in the second quarter fell 1.1 percent to $2.55 billion.
+
+Gravel Road
+
+New software license and cloud subscription sales, a closely watched indicator of future revenue, were little changed at $2.38 billion. Oracle is poised to post two straight years of less than 5 percent software-license growth, according to Brent Thill, an analyst at UBS AG.
+
+“They’re on a gravel road right now -- it’s not smooth,” said Thill, who has a buy rating on Oracle stock. “The pure-play software-as-a-service vendors are accelerating their momentum.”
+
+Exclusive insights in your inbox, from our technology reporters around the world.
+Get Fully Charged, from Bloomberg Technology.
+
+Enter your email
+ Sign Up
+Revenue in the current fiscal third quarter will climb 2 percent to 6 percent, Oracle Chief Financial Officer Safra Catz said on a conference call with analysts. Profit, excluding acquisition-related expenses, stock-based compensation and other items, will be 68 cents to 72 cents a share, she said. Analysts are predicting sales will grow 4 percent to $9.35 billion and earnings will increase 8 percent to 70 cents.
+Cloud Shift
+
+Oracle is the second-largest maker of business applications behind SAP AG and entered the computer server market with the 2010 acquisition of Sun Microsystems. Hardware sales were little changed at $1.32 billion during the quarter.
+
+In September, Oracle enhanced its database to take greater advantage of large amounts of computer memory to speed data analysis and online commerce. Oracle and Salesforce.com Inc. struck a partnership in June, agreeing to use more of one another’s products and have their applications share some data.
+
+Oracle will be “price-competitive” with Amazon.com Inc., Microsoft Corp. and Rackspace Hosting Inc. in the market for computing power sold as a service, Ellison said on the call.
+
+“We think we have a much stronger platform than any of our software-as-a-service competitors,” Ellison said.

@@ -1,0 +1,57 @@
+
+Facebook showed Wall Street that even with over 1 billion users, it can still post blockbuster growth. But one of the main drivers of its expansion will taper off next year, an executive said.
+
+Increasing ad load — the number of ads on the website — has been one of three main factors of Facebook's growth, along with user growth and increasing time spent on the platform, Facebook's chief financial officer David Wehner said on Wednesday. But ad load could "come down meaningfully" after mid-2017, Wehner said, reiterating last quarter's comments, and revenue growth could decline in the fourth quarter.
+Facebook is the number 2 ad publisher globally, behind Google, eMarketer estimates.
+
+"We expect revenue growth rates will decline as we lap strong quarters," Wehner said in a conference call with investors. The company also said it would be hiring aggressively and investing in data center expansion, even as it reached a limit on how many ads it can show on its properties.
+
+"Adding top engineering talent remains one of our key investment priorities as we continue to execute on our three, five and 10 year roadmaps," Wehner said. "In addition, we expect to grow capital expenditures substantially."
+
+The company also said it would alter its tax approach to its employee equity awards in 2017 — a method that would have increased cash outflows by $1.8 billion through September if it had been used in 2016.
+
+Wehner said that investments in new ad products will continue to enable more advertiser appetite.
+"We continue to see good opportunities to grow time spent. We see good opportunities to grow users. We continue to see good opportunities to grow advertiser demand," Wehner said. "Really, the mix of ad units is part of what we're doing, I think, really well. We're developing a number of new ad products as well as enhancing the ad products that we have out in the market today, so we're taking what is a great mobile ad product on Facebook and Instagram and making it even better."
+
+billions of users, US dollars
+Monetizing Facebook's users
+Trend in advertising revenue and user growth over time,from Facebook filings
+Monthly active users (billions)
+
+Q2 2016● Advertising revenue (billions USD): 6.2
+Facebook reported quarterly earnings and revenue that beat analyst expectations on Wednesday, as it added more users than Wall Street expected. 
+The social media giant posted adjusted earnings of $1.09 per share on revenue of $7.01 billion, up from the comparable year-ago figures of 57 cents per share, adjusted, on $4.5 billion in revenue. Analysts had expected earnings of 97 cents per share, adjusted, on $6.92 billion, according to a Thomson Reuters consensus estimate.
+
+The most optimistic estimate for the September quarter listed in FactSet was $1.03 per share, adjusted, from RBC Capital Markets. It marks the fourth straight quarter that Facebook has pummeled Wall Street's projections, after beating in January, April and July.
+
+Beating by 12 cents per share, the results were one standard deviation from the mean. In the past five years, there have been only three other times when Facebook has beat by an above-average magnitude. In the week following, Facebook is up 67 percent of the time, according to Kensho data.
+
+But shares of the stock wavered after hours, briefly rising before dropping nearly 7 percent after hours.
+
+"Perhaps one of the reasons [why] the stock was down initially was people are waiting for the engagement score for the U.S. and Canada," JMP analyst Ron Josey said.
+
+Advertising revenue hit $6.82 billion, above the $6.71 billion estimated by StreetAccount. Monthly active users rose to 1.79 billion, above the more than 1.75 billion expected. For the first time, more than 1 billion users were active only on their phones every month.
+
+Average revenue per user was $4.01 in the third quarter.
+
+"We had another good quarter," Chief Executive Officer Mark Zuckerberg said in a release. "We're making progress putting video first across our apps and executing our 10 year technology roadmap."
+
+Investors are banking on Facebook's executive team to continue to grow revenue from core Facebook with new ad products and overseas margin expansion and to monetize Oculus, WhatsApp and the Facebook Messenger platform. User engagement is another thing investors watch very closely.
+
+The social media company notched major milestones this year, reaching 1 billion monthly users on messaging apps WhatsApp and Messenger, and 500 million monthly Instagram users. Shares of Facebook's stock hit an all-time intraday high last week. It has also launched services to boost its presence in commerce and has beefed up Snapchat-like offerings.
+But the company has also faced challenges. In September, the company said it made an error in estimating a key video metric.
+
+Zuckerberg said that Facebook plans to make some key improvements to become a video-first platform, after experiments with creative tools its in-app camera functions across its apps. One change will be a separate video experience, and another will be investing in infrastructure to deliver the best videos quickly.
+
+"Fundamentally, the mobile networks are getting to a point where a margin of people around the world can have the experience of watching a video," Zuckerberg said. "If you go back a few years and you tried to load a video in Newsfeed, it might have to buffer for 30 seconds before you watched it, which wasn't a good enough experience for that to be the primary way that people shared....it's just much more intensive technically. There aren't very many companies that can do this at the scale that we're talking about. That's an advantage for us."
+
+Chief operating officer Sheryl Sandberg said she believes that ad dollars shift with eyeballs — and Facebook wants to be the best ad dollars that businesses spend in videos.
+
+"It's definitely true that most of our advertisers are advertising on TV and advertising with us on mobile — and they should be," Sandberg said. "And we've done studies with Nielsen that show our ads can be a good complement to TV, particularly enabling you to reach people who really aren't on TV ... the power of what we're able to really goes to the targeting."
+
+Zuckerberg has also been mired in political news amid a contentious election cycle, having reportedly weighed in on posts from Republican presidential candidate Donald Trump. Zuckerberg has advocated on behalf of PayPal co-founder and Facebook board member Peter Thiel, who supports Trump.
+
+Two-thirds of Facebook users — 66 percent — get news on the site, according to the Pew Research Center, up from 47 percent in 2013. 
+Zuckerberg estimated that Facebook's "Register to Vote" link helped more than 2 million people register to vote, some for the first time.
+
+"Facebook really is the new town hall," he said.

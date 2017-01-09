@@ -1,0 +1,32 @@
+Though its valuation has eased somewhat from its post-earnings highs, Oracle (NYSE:ORCL) stock is still up about 5% since chairman and co-founder Larry Ellison and team shared fiscal 2016 Q3 financials on March 15. That's good news for shareholders, and it helped drive Oracle's year-to-date performance to 11%.
+
+The basis for investors' bullish stance on Oracle has a familiar ring in a tech world transitioning to new, fast-growing markets: growing cloud and related revenue, and Ellison and team did just that. Longtime Oracle competitors Microsoft (NASDAQ:MSFT) and IBM (NYSE:IBM) are certainly familiar with what it takes to transition an established tech leader away from "old-school" technologies. But was the cloud headway Oracle made last quarter really enough to turn the corner, as so many investors seem to think?
+
+
+The silver lining
+Total cloud revenue is approaching an annual run-rate of nearly $3 billion, led by Oracle's impressive 57% year-over-year improvement in cloud software-as-a-service (SaaS) and platform-as-a-service (PaaS) sales. Cloud infrastructure didn't fare quite as well as Oracle's SaaS and PaaS fortunes, though, dropping 2% compared to the year-ago period, to $152 million.
+
+Investors also overlooked a couple of other areas in which Oracle didn't perform as well as its cloud-related units. Oracle continues to drive the majority of its revenue from non-cloud software licenses, updates, and support. Unfortunately, its software license division declined 15% last quarter, and Oracle's hardware and support division's $1,135 billion was a 13% drop compared to the year-ago period.
+
+Oracle's total revenue declined 3% to $9 billion last quarter, which is fine since investors give Ellison the benefit of the doubt as it continues its transformation. But despite Oracle's assertion that its cloud business is now "in a hyper-growth phase," some significant hurdles remain.
+
+
+Better late than never?
+Microsoft shareholders know first-hand how long it can take to not only redirect its business focus, but also to get investor buy-in. Microsoft stock meandered for years, but about six months ago, things began to change. Continually reporting triple-digit growth in cloud revenue finally seemed to wake the Street up to the fact that Microsoft's dependence on the PC market was a thing of the past.
+
+At a more than $9.4 billion annual run-rate, Microsoft has taken a cloud market leadership position, and its stock is up nearly 25% the past six months. Microsoft's recent move to open its SQL Server database software to Linux OS users is nothing short of a direct attack on Oracle's market leadership position. Gaining control of the data opens the doors to multiple opportunities -- increased SaaS, PaaS, and hosting sales to name but a few -- and Microsoft has thrown down the gauntlet.
+
+Similar to Oracle, IBM was slow to join the cloud party, but it's still further along the path than Oracle despite Ellison's assertion that it's "selling more enterprise SaaS and PaaS new cloud revenue than any other company in the world." IBM's emphasis on cognitive computing and analytics, in addition to data hosting, has driven its annual cloud revenue run-rate to $4.5 billion. Just as importantly for IBM shareholders, it appears the Street is finally taking notice.
+
+Where to from here?
+IBM's stock is up 13% in the past month as investors are focusing on its "strategic imperatives" efforts -- namely cloud, big data, cognitive computing, and analytics -- rather than legacy businesses. Oracle can't match IBM's, and certainly not Microsoft's, total cloud sales, but it's already won over the investment community.
+
+Oracle's fiscal Q3 warranted a positive response, even though overall revenue was only so-so. However, if investors are jumping on the Oracle bandwagon because of its cloud results, there are better opportunities that are further down the transition road -- not to mention ones that offer significantly higher dividend yields.
+
+Microsoft with its industry-leading cloud revenue and 2.65% dividend yield, and IBM with its strong cloud results and 3.5% yield both more than hold their own against Oracle's budding cloud efforts and 1.5% payout. By no means is Oracle wildly over-valued because of its recent stock performance, but it still has a bigger hill to climb than others in its new sandbox.
+
+10 stocks we like better than Oracle
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.*
+
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now… and Oracle wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+

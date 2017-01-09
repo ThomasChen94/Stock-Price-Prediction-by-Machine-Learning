@@ -1,0 +1,36 @@
+Oracle's third quarter results fell short of expectations, but the company blamed currency fluctuations---not demand---for the miss.
+
+The company reported third quarter earnings of $2.6 billion, or 56, cents a share, on revenue of $9.3 billion. Non-GAAP earnings in the third quarter were 68 cents a share.
+
+Wall Street expected to Oracle to report fiscal third quarter earnings of 70 cents a share on revenue of $9.36 billion.
+
+In a statement, Oracle played the currency card, citing strength of the U.S. dollar for its miss. Oracle also said it took a 2 cents a share charge due to exchange rate changes in Venezuela. In constant currency, Oracle said its non-GAAP earnings for the third quarter would have been 71 cents a share.
+
+Oracle did deliver some good data points. For instance, hardware system product revenue for the third quarter was $725 million, up 8 percent from a year ago. Software license and support revenue was up 5 percent to $4.6 billion and new software licenses and cloud subscriptions were up 4 percent from a year ago to $2.4 billion.
+
+The outlook for the fourth quarter was also solid. 
+
+
+Safra Catz, Oracle co-president, said fourth quarter earnings on a non-GAAP basis will be between 92 cents a share and 99 cents a share. She added that new license and cloud subscription growth as well as hardware products will be between zero and 10 percent. Total revenue growth in the fourth quarter will be between 3 percent and 7 percent.
+
+Wall Street was looking for fourth quarter earnings of 95 cents a share on revenue of $11.5 billion, up 5 percent from a year ago.
+
+oracle q3 B
+
+Bandwidth Analyzer Pack: Your ONE network monitoring and traffic analysis tool
+SolarWinds® Bandwidth Analyzer Pack streamlines troubleshooting and consolidates the multiple tools to simplify detection, diagnosis,and resolution. Download the free, fully functional 30-day trial of SolarWinds® Network Bandwidth Analyzer Pack now!
+Downloads provided by SolarWinds
+ 
+
+The company indicated that cloud application sales "accelerated sharply in the quarter with bookings growth of over 60 percent." Oracle added that its quarterly cloud revenue is now approaching $300 million.
+
+On an earnings conference call, Oracle executives took their swings at the competition. CEO Larry Ellison touted the cloud business. 
+
+Eight years ago we started to rewrite all of our applications for the cloud. Now those Fusion ERP HCM and CRM cloud applications are competing effectively with SaaS product specialists like Salesforce and Workday. SAP has not yet begun the to rewrite their ERP, HCM and CRM applications for the cloud. This gives us the opportunity to become the leader in cloud application and replace SAP as the leader in the overall applications marketplace.
+Mark Hurd, co-president of Oracle, said that the company's cloud products are simply better than before and the new features are rolling out. Hurd added that there are a lot more salespeople behind cloud applications.
+
+Other key items:
+
+Ellison was optimistic about Database 12c adoption---especially when the in-memory features arrive this summer.
+Hurd argued that Oracle's rebound in the hardware business is sustainable as the Exa- product lineup of engineered systems represents a third of hardware sales.
+The company's infrastructure as a service and platform as a service offerings will be generally available in the summer. Ellison said the infrastructure cloud will be priced competitively with Amazon.

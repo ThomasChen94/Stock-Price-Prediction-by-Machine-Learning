@@ -1,0 +1,47 @@
+Facebook just announced Q1 2013 earnings. Revenue was nearly $1.46 billion, up 38 percent year over year (YoY). That beat financial analysts’ estimates. Net income was $219 million, which was below estimates.
+
+Allaying fears of a decline in usage and engagement, Facebook saw 26 percent growth in daily active users (now 665 million). Monthly active users also increased 23 percent to 1.1 billion. Mobile active users were 751 million, a significant jump compared with 680 million in Q4 2012.
+
+Ad revenues were $1.25 billion (85 percent of total revenue), which represented a 43 percent increase YoY. Mobile ads jumped to 30 percent of the total, up from 23 percent in Q4.
+
+In all generally positive results for the company. Below are selections from the earnings slides:
+
+Facebook Q1 revenue Daily active users Facebook mobile users  Facebook Ad revenue by geo
+We’ll be listening in on the earnings call, which is about to start . . . check back for updates.
+
+Earnings call remarks: 
+
+CEO Mark Zuckerberg (in prepared remarks): Facebook home is a “great product” and “completely new kind of mobile experience based on people, not apps.” He vows to keep iterating and improving the app. He doesn’t discuss early feedback (which has been largely critical).
+
+The Instagram community is “growing faster” than Facebook. The two communities “complement each other.”
+
+We can create a lot of value for mobile app developers and we’re starting to see real revenue through “selling app install ads.”
+
+We haven’t seen any “meaningful [negative] impact” on user satisfaction from ads — “we continue to watch” the metrics very closely.
+
+COO Sheryl Sandberg: Ad revenue grew faster in Q1 than “any quarter than in 2012.” Growth strong from SMBs, app marketers and direct marketers.
+
+Seeing strong growth in mobile ads business all around the world, particularly in Asia. During the quarter 3,800 developers to drive nearly 25 million app downloads. “Our costs per install are highly competitive.”
+
+In last 9 months Facebook has conducted campaign effectiveness studies to determine ROI. Bud Light saw 6X return on ad spend in one of these case studies.
+
+Focus on clicks simplifies how people make purchase decisions. Atlas will help provide Facebook and marketers a more complete and nuanced view of attribution — “multi-touch attribution.” Atlas platform will help demonstrate “even more clearly” the connection between ad impression and offline purchases.
+
+A more holistic view of consumer behavior shows that cost per [customer] acquisition on Facebook “was 68 percent less than other [digital] channels.”
+
+Sandberg is describing the targeting/demographic benefits of Custom Audiences and third party data targeting.
+
+About FBX: offers better, more cost-effective retargeting than other online retargeting options.
+
+CFO David Ebersman: Daily active users represent 60 percent of the total user base.
+
+Most Facebook advertisers don’t specify PC or mobile only advertising (though that’s available). Facebook has discretion, for the most part, over where ads appear: PC vs. mobile. He says total aggregate ad revenue number is most important accordingly.
+
+Facebook has $9 billion in cash and short term investments on hand.
+
+Analyst questions: 
+
+Sandberg and Zuckerberg respond to a compound question about ads. Both say they’re focused on ads quality (good content, personalization).
+
+Question about engagement: Ebersman says that mobile is the key to driving more engagement and more daily engagement.
+

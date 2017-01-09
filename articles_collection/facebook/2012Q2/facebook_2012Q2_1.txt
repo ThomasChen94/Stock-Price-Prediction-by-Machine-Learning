@@ -1,0 +1,74 @@
+Facebook is reporting its first quarterly earnings as a public company today. After a disappointing IPO, the company needs a strong showing to regain investor confidence. "Excuse my French, it was a clusterfuck," Elevation Partners Roger McNamee said of the IPO. "It’s like you had a chance to win the Super Bowl and you didn’t show up for the game."
+
+Facebook posted first quarter 2012 revenues of $1.058 billion, up 45 percent year over year from $731 million. It moved the needle a little farther and hit its second quarter marks with $1.18 billion revenue. Earnings per share also came in right on the money at 12 cents per share. The stock is down more than 10 percent in after hours trading.
+
+You can find more detail on the earnings here.
+
+Revenue from advertising was $992 million, representing 84% of total revenue and a 28% increase from the same quarter last year. That is good, but slowing growth for a company which had been accelerating at much faster pace before the IPO.
+
+Screen_shot_2012-07-26_at_6
+Many believe the social network has purposely set the bar low for Wall Street's expectations. "Facebook management and bankers believe that the surest way to change the narrative on the company is if Facebook is able to rise above its $38 IPO price through strong Q2 revenue numbers," Sam Hamadeh, CEO of PrivCo, a firm that tracks the financials of private companies, told Venturebeat.
+
+Investors were also eyeing how Zynga's poor earnings and declining revenue-per-user would affect Facebook, which has been reported to draw around 12 percent of its revenue from Zynga's games. JP Morgan thought Zynga's quarterly losses would cut a whopping $170 million off Facebook's non-advertising revenue.
+
+Facebook's user base and daily active users were up very modestly, with 955 million active and 552 million daily. Facebook's user base was 901 million monthly active users as of March 31, 2012, up 33 percent from the year-ago period. Daily active users were 526 million on average in March, up 42 percent from 372 million a year ago. Facebook users generated an average of 3.2 billion likes and comments per day in the first quarter of 2012, a good proxy for engagement.
+
+On mobile, Facebook had 488 million monthly active users in March. Mobile MAUs were 543 million as of June 30, 2012, an increase of 67 percent year-over-year.
+
+In terms of average revenue per user (ARPU), Facebook had $1.21 ARPU in the first quarter of 2012, a decrease of 6 percent from the year-ago period.The ARPU, a closely watched metric, was back up to $1.28, the same place it was at in Q4 of 2011.
+
+Facebook reportedly has plans to get closer to its users with its own HTC phone in 2013.
+
+Of course, the real kicker will be whether or not founder Mark Zuckerberg shows up on the call. The hoodie-wearing-Harvard-dropout has not been making friends on Wall Street, which didn't take to his product before profits attitude.
+
+Your boiler plate quote from Zuckerberg. "Our goal is to help every person stay connected and every product they use be a great social experience," said Mark Zuckerberg, Facebook founder and CEO. "That's why we're so focused on investing in our priorities of mobile, platform and social ads to help people have these experiences with their friends."
+
+The earnings call is live, follow along with us:
+
+Founder and CEO Mark Zuckerberg jumps on for some brief words, but nothing too detailed. And he's off!
+
+COO Sheryl Sandberg says Facebook is the best platform for word of mouth marketing. They are going to be a player in all parts of the ad funnel and show real return on investment for big corporations and mom and pop shops.
+
+"People spend more time using Facebook than any other service." True. But Facebook makes far less money per person than others...
+
+"Newsfeed is the same in mobile as desktop, and that makes it easier for us to advertise in an effective way on phones and tablets."
+
+Sandberg says sponsored stories were generating $1mm a day in revenue, with half of that coming from mobile.
+
+"Ads are really hard for mom and pops to learn, but Facebook is easy," says Sandberg. "Hundreds of thousands of small businesses advertise with Facebook."
+
+Facebook will continue to focus on making new mobile products and convincing the market that its advertising works.
+
+CFO David Ebersman is on the line. "Ads are up, thanks to better products and more users. The strong dollar hurt us a little."
+
+Price per ad was up, thanks to the ramp up of sponsored stories on desktop and mobile.
+
+Asia is growing faster than the rest of the world, which drags down average price per ad.
+
+Ad prices were also down in Europe, which Ebersman blames on the weak economy there.
+
+Gaming is growing mostly on mobile, where Facebook has no payment system set up yet.
+
+Engagement grew measured by likes, comments and feedback per person.
+
+Facebook says it has made improvements in removing duplicate and fake accounts. "Ensuring that every account on Facebook belongs to a real person."
+
+Ended Q2 with $10.2 billion in the bank.
+
+The lines are open for Q&A. Spencer Wang from Credit Suisse wants to know about the Facebook ad exchange and the Yahoo patent and ad deals.
+
+Sandberg says the ad exchange is too early to share any details. On the Yahoo deal, two parts, cross license patents and work on tent pole ad events like the Olympics. "We're back to a good relationship with an important client. Congrats to Marissa Meyer!"
+
+Zuckerberg jumps on to answer questions: we see steady growth from the younger and older users alike. We will remain small in terms of employees per user. Trying to grow by hiring talented engineers, but we will stay smaller than other tech companies with similar sized user bases.
+
+Question from Wells Fargo: How will mobile monetization play out. Do you need to own the entire experience, own a device, versus purely and application.
+
+Zuckerberg: We are the most used app on every mobile platform. So. We want to increase the depth of engagement with our mobile users. We want to be deeply integrated into these mobile systems. That's why we support the integration in iOS. Building out a whole phone would not make much sense for us to do, he says.
+
+Any interesting acquisition targets like Instagram asks Barclays? Is this the lowest quarter in terms of year over year growth.
+
+Zuckerberg says that deal hasn't even closed. They want to acquire talent and get people who want to take risks. People working on a problem who would have more leverage at Facebook.
+
+Zuckerberg is asked about what they are doing on commerce and video. In gaming, for example, we think we are providing a high value, so get a good percentage of revenue. Music less so. Over time more and more nuanced experiences will become social. Commerce will require more nuance. We wil build out the tools and to capture some of the value we help to create. Not going to share any plans for our product roadmap.
+
+And that wraps up for us folks, thanks for tuning in. Be sure to like us on Facebook.

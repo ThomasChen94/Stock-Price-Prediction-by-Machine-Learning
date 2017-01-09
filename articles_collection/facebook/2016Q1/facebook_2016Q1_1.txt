@@ -1,0 +1,59 @@
+
+Tech giant Facebook crushed analyst estimates when it reported first-quarter results on Wednesday.
+
+The company reported adjusted first quarter earnings of 77 cents per share on revenue of about $5.38 billion. Analysts had expected Facebook to report earnings of about 62 cents per share on $5.26 billion in revenue, according to a consensus estimate from Thomson Reuters.
+
+In fact, Facebook's earnings per share figure was 10 percent better than the highest estimate of 41 Wall Street analysts.
+Shares in the company jumped more than 9 percent in after-hours trading following the announcement. If Facebook were to open at those levels on Thursday, it would easily exceed its all-time high share price of $117.59.
+
+Facebook also said it was proposing the creation of new class C shares. If the proposal is approved, shareholders would get two C shares for each class A or class B share they own. This would potentially allow Facebook CEO Mark Zuckerberg to sell some of his shares while still maintaining control of the company.
+See more details on Facebook's new share structure proposal.
+
+"We're focused on the long term, and that's the main reason for today's proposal," Zuckerberg said at the top of the company's earnings call. "Facebook has always been a founder-led company so we can focus on our mission and build long-term value."
+
+Zuckerberg has previously pledged to give most of his wealth to charity — largely through the Chan Zuckerberg Initiative.
+
+"This proposal is designed to create a capital structure that will, among other things, allow us to remain focused on Mr. Zuckerberg's long-term vision for our company and encourage Mr. Zuckerberg to remain in an active leadership role at Facebook," the company said in its earnings release.
+
+Zuckerberg said his control over Facebook has allowed it to successful turn to mobile and make bets on acquisitions like Instagram "that were very controversial initially, but were good decisions for our community and our business."
+
+"Facebook has been built by a series of bold moves, and when I look out at the future I see more bold moves ahead of us than behind us," he said.
+
+The adoption of the proposal is subject to the approval of Facebook shareholders at its 2016 annual meeting of Stockholders in June, the company said.
+
+Facebook monthly active users (MAUs)
+MAUs in billions at end of each quarter
+
+Facebook also reported Wednesday that monthly active users, a key metric for the company also known as MAUs, were 1.65 billion at the end of the first quarter. Wall Street had only expected 1.63 billion, according to StreetAccount.
+Mobile MAUs increased 21 percent year-over-year to 1.51 billion at the end of the quarter, Facebook said. That also topped the average analyst estimate of 1.48 billion, according to StreetAccount.
+
+Overall, sharing has increased on Facebook and people are spending more time on its family of apps, Zuckerberg said — noting that is true both the whole community and on a per person basis.
+
+All told, Facebook continues to dominate the social media space: Zuckerberg said people around the world spend on average more than 50 minutes per day on Facebook, Instagram and Messenger — and that's not even including WhatsApp.
+
+Wall Street had expected the social media giant to announce a year-over-year quarterly revenue increase of about 48 percent — massive growth for a company Facebook's size. Facebook's actual growth came in at 52 percent against the comparable year-ago revenue of $3.54 billion, the company said.
+
+Most of that growth is attributable to Facebook's $5.2 billion in advertising revenue, a 57 percent increase year-over-year and easily in excessive of Wall Street's consensus estimate of $5.02 billion.
+
+Mobile advertising accounted for about 82 percent of total ad revenue in the quarter, Facebook said, noting that's an increase from 73 percent during the same period last year. There are more than 3 million businesses actively using Facebook's advertising products, and more than 200,000 are utilizing Instagram, COO Sheryl Sandberg said on the call.
+
+A significant number of those advertisers are small and medium-sized businesses, she added.
+Speaking with CNBC after the earnings announcement, Facebook CFO David Wehner said the company's long-term investments were paying off, and mobile news feed ads continued to be the big driver of growth.
+
+Although he wouldn't break out Instagram figures specifically, Wehner said the platform is making a contribution to the company's growth.
+
+Zuckerberg also highlighted Facebook's work with video on the call, saying "we're at the beginning of a golden age of online video."
+
+Zuck reveals his ideal future, criticizes 'fearful'
+Skittish tech investors were carefully watching Wednesday's announcement after shares in Apple and Twitter plunged on their Tuesday reports.
+
+Facebook held its annual F8 global developer conference earlier this month, discussing a slew of initiatives including its work on artificial intelligence and virtual reality. The most widely heralded announcement of the event, however, was Facebook's push for chatbots on its platforms.
+
+Chatbots — interactive, responsive messaging programs — could allow users to communicate with brands and companies through Facebook. If successful, such a development would effectively leapfrog the currently dominant mobile app economy and allow the company to create its own thriving digital ecosystem.
+
+At F8, Zuckerberg announced Messenger Platform beta, which will allow developers to create "natural-language services to communicate directly with people."
+
+But Zuckerberg also made news during that event for speaking broadly about his company's goals, saying that "instead of building walls, we can help people build bridges."
+
+Although Zuckerberg's remarks were likely partly referencing the tight internet control maintained by countries like China — where Facebook is blocked by the "Great Firewall" — they were also about the ongoing immigration debate in the U.S. where Republican candidates like Donald Trump and Ted Cruz have supported building a wall along the border with Mexico.
+A day after that event, a Trump spokeswoman lashed out at the Facebook CEO on CNBC, saying, "I think I'll take Mark Zuckerberg seriously when he gives up all of his private security, moves out of his posh neighborhood and comes live in a modest neighborhood near a border town."

@@ -1,0 +1,18 @@
+For the ninth consecutive quarter, Facebook beat earnings projections thanks to 1.12 billion mobile users contributing 66 percent of its ad revenue. Facebook racked up $3.203 billion in revenue with a $0.43 EPS in Q3 2014. Total user count grew 2.27 percent to 1.35 billion monthly users, but that’s slower than its 3.125 percent user growth in Q2.
+
+The social network counts 864 million daily users and 703 million mobile daily users. Facebook now has 456 million mobile-only users, up 14.2 percent from 399 million last quarter to make up one-third of Facebook’s user base. Mobile growth was 4.67 percent from 1.07 billion to 1.12 billion, which is a significant amount slower than the 5.9 percent that the figure grew last quarter.
+
+For its size, the 2.27 percent user growth looked decent compared to the 4.8 percent growth Twitter says pushed it to 284 million users. And Facebook’s mobile money dwarfs that of other ad giants like Yahoo, which saw just 17 percent of ad revenue from mobile this quarter.
+
+Wall Street did not like the earnings report, as $FB is now down 9.77 percent in after-hours trading to $72.88, compared to pre-earnings level of $80.52 and its previous all-time regular hours high of $81.16.
+
+
+Facebook saw solid growth in its home US & Canada market, reaching 206 million users up from 204 million last quarter. However, its growth in Asia slowed from 5.12 percent last quarter to 3.96 percent, leaving it with 426 million users in the region now. Average Advertising Revenue Per User (ARPU) growth slipped a bit internationally, but grew from 13.08 percent last quarter to 15.91 percent this quarter in the US and Canada to reach $1,362. That may indicate that new ad offerings like premium video and Audience Network may be picking up steam in Facebook domestic markets, which gives a promising outlook for how they’ll fair internationally given some time.
+
+
+Facebook’s earnings beat Wall Street’s estimates of $3.12 billion in revenue and $0.40 EPS. Facebook now has $14.25 billion in cash, cash equivalents, and marketable securities, giving it ample ammo to make acquisitions.
+
+
+There are a few big questions for the earnings call later today. The performance of Facebook’s premium video ads is of interest, as is the early progress of Facebook Audience Network, its mobile advertising network. Analysts may want to hear how Facebook thinks its Creative Labs standalone app strategy will pay dividends, following the slow traction of Paper and Slingshot, and the new release of Rooms.
+
+Most importantly, though, is that we’ll see if Facebook is willing to give any data on the engagement of teens. Many suspect it has fallen significantly, with a Piper Jaffray study saying teen usage is down from 72 percent in the spring to 45 percent in the fall 2014, though surveys like this are suspect, as teens may be exaggerating their exodus to sound cool. Last time Facebook mentioned teen data on Q3 2013’s earning call, citing a slight drop amongst younger US teens, its share price cratered and the company has been mum on the subject ever since.

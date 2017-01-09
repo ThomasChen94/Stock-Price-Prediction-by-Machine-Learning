@@ -1,0 +1,67 @@
+Facebook stock hit an all-time high after-hours after the company reported its Q3 earnings, beating analyst expectations on the top and bottom line.
+
+Here are the most important numbers:
+
+Revenue: $4.5 billion vs. analyst expectations of $4.37 billion, up 41% year-over-year.
+Adjusted EPS: $0.57 vs. analyst expectations of $0.52.
+MAUs: 1.55 billion monthly active users vs. 1.52 billion expected.
+The after-hours stock was up nearly 5% initially, dipped down to +2%, and settled around 4% after the earnings call. At about 107.7, Facebook's stock is at a new all-time high and shares are up roughly 25% since mid-August.
+
+None of the numbers reported in the release were hugely surprising. Its expenses were up 68% year-over-year, but the company had previously said that it plans to invest heavily this year. Also as expected, Facebook saw an increase in the percentage of its revenue coming from mobile.
+
+One of the most mind-blowing numbers came in the earnings call, though, when the company shared that Facebook now has 8 billion video views per day. That's double the 4 billion daily views the company reported in April. Those views come from the 500 million users who are watching videos every day.
+
+"We're just so early in this right now," CEO Mark Zuckerberg said when asked about video on the call. "It's pretty amazing how quickly it's growing. But there's a lot more to do."
+
+Here are the other important numbers:
+
+1.01 billion daily active users on average for September, which is up 17% year-over-year, and 894 million people use Facebook on their phone every day.
+Of Facebook's 1.5 billion monthly active users, 1.38 billion are accessing the site on mobile, and 727 million are mobile-only users. That's up 37% year-over-year, likely driven by Facebook's adoption in emerging markets like India and Africa, where people primarily access the internet on smartphones.
+Costs and expenses of $3.04 billion, which is up 68% year-over-year, with R&D more than doubling year-over-year to $1.27 billion. That's also up significantly from $2.76 billion in costs and expenses last quarter.
+The adjusted operating margin was 54%, down from 57% year-over-year.
+About 78% of advertising revenue came from mobile, up from 66% at this time last year and 76% last quarter.
+As usual, most of Facebook's revenue came from advertising, but about 4%, or $202 million, came from payments and other fees. That's down from 7% in Q3 2014, which Facebook has, in the past, attributed to a drop in revenue from gaming apps.
+Free cash flow was $1.41 billion in the third quarter.
+Most of Facebook's revenue comes from North America and Europe, with only about 25% ($1.1 billion) coming from Asia-Pacific and the rest of the world. But those areas account for 65% of its monthly active users. The average revenue per user in those regions is still tiny, compared to in the US — $1.39 and $0.94, respectively, vs. $10.49 and $3.47 in the US and Europe.
+Facebook recently made a big press push around its efforts in emerging markets, and how it's optimizing its content and, importantly, its advertising to work well in areas of the world. But it seems those efforts haven't shifted the average revenue-per-user numbers yet.
+Here's a look at where Facebook's revenue comes from:
+
+FB
+Facebook
+
+And you can see that Facebook also makes more per user in the US than it used to, likely attributable to the rollout of video and Instagram ads:
+
+FB
+Facebook
+
+And here's Facebook's state of the union as far as the size of its various products:
+
+Facebook size
+Facebook
+
+Some highlights from the earnings call
+Zuckerberg and COO Sheryl Sandberg shared some stats on the call:
+
+There are 8 billion daily video views on Facebook. That's up from 4 billion a few months ago.
+Lots of those views are coming from the 500 million people who are watching video on FB daily.
+Over 1.5 million small businesses posted a video — organic posts and ads — on Facebook in September.
+1 billion people use Facebook on Android.
+925 million people use Groups — and in some countries, more than half the population use them.
+People share 80 million photos a day on Instagram.
+1 in 5 of the minutes that people spend on their phones per day is with Facebook and Instagram.
+More than 9.5 billion photos are now sent on the chat app Messenger.
+Zuckerberg also said that Facebook-led Internet.org, which aims to spread connectivity to parts of the world that don't have it, has made significant progress in places like Africa.
+
+Sandberg also gave some updates on its ad products, including that there are 2.5 million active advertisers on the service. The price per ad was up 61% in Q3, though total ad impressions fell 10%.
+
+She also subtly burned YouTube: "People come to Facebook and Instagram because we have the best-performing mobile-video ad products."
+
+The company added 1,000 new employees this quarter for a total of 12,000 employees, up 44% year-over-year.
+
+Facebook also said that it expects its total 2015 capital expenditures to be between $2.5 billion and $2.7 billion.
+
+When asked about Facebook in China, Zuckerberg said it was a "complex situation."
+
+"You can't have the mission of wanting to connect everyone in the world and leave out one of the biggest countries," he said. "We need to try to figure out a way forward on that issue."
+
+He did say that people who think that Facebook isn't in China at all are wrong, though. Although the app isn't allowed in the country, China is "one of the biggest advertising markets" that Facebook has. Big Chinese companies use FB as one of their primary tools to spread info about what they're doing to people outside the country, he said.

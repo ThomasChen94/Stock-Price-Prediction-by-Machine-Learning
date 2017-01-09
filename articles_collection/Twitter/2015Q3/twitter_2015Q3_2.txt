@@ -1,0 +1,31 @@
+Twitter has released its earnings report for the third quarter and has beaten expectations with revenue of $569.24 million and a non-GAAP earnings per share of $0.10. Wall Street had expected the company to generate $559.59 million in revenue with an earnings per share of $0.05.
+
+Shares in Twitter closed up 1.46 percent at $31.34 for the day. In after-hours trading, however, shares fell between 10 and 13 percent. Investor dissatisfaction is most likely spurred by user numbers. The company reported that it now has 320 million monthly active users, but Wall Street had hoped for more.
+
+In a statement, chief executive Jack Dorsey said: “We continued to see strong financial performance this quarter, as well as meaningful progress across our three areas of focus: ensuring more disciplined execution, simplifying our services, and better communicating the value of our platform. We’ve simplified our roadmap and organization around a few big bets across Twitter, Periscope, and Vine that we believe represent our largest opportunities for growth.”
+
+Twitter Inc. (TWTR) Quarterly Revenue | FindTheCompany
+
+The majority of Twitter’s revenue came from advertising, which generated $513 million, an annual increase of 60 percent. The mobile space was responsible for 86 percent of that amount. Revenue worldwide has also increased, with $370 million coming from the U.S. alone (up 54 percent), and $199 million from abroad (up 65 percent).
+
+In terms of user numbers, as mentioned earlier, Twitter now claims 320 million monthly active users, an 11 percent annual increase, but a 4 million bump from the previous quarter. However, excluding SMS Fast Followers, there were 307 million MAUs, an 8 percent annual increase, versus the 304 million in Q2 2015.
+
+(As a refresher, SMS Fast Followers is a command that users can send via text to quickly follow other people.)
+
+Approximately 80 percent of the monthly active users are on mobile, according to Twitter.
+
+Screen Shot 2015-10-27 at 1.31.53 PMThis is Jack Dorsey’s first official earnings report since he was installed as chief executive and Adam Bain was promoted to chief operating officer. Following the departure of his predecessor Dick Costolo, Dorsey took the helm for Twitter’s disappointing second quarter earnings and expressed his displeasure at the the company’s sluggish growth.
+
+While it’s easy to tie the Q3 numbers to Dorsey, the truth is that it’ll likely take more time for him to make changes. This quarter’s performance will set a benchmark, however, as investor’s begin to to assess his leadership.
+
+Twitter’s third quarter has been a rather busy one, at least product-wise, as it seeks to firm up its identity with users, brands, and advertisers. Earlier this month, the company launched Moments, and soon after, began testing out ways to monetize the offering. It has also unveiled new advertising tools, including better analytics aimed at brands, new ways to match up content creators and advertisers outside of established deals, and more. And let’s not forget about polling.
+
+The earnings report also comes just weeks after the company laid off 8 percent of its workforce, which Dorsey said would enable Twitter to “move with greater focus and reinvest in our growth.” As part of that reform, he has also tried to extend an olive branch to a core constituency: developers. Last week, at Twitter’s mobile developer conference, he publicly apologized to developers for how the company has treated the community in the past. To add more fuel to the fire, as Dorsey was offering his mea culpa, Morgan Stanley downgraded Twitter’s stock to its lowest underweight rating, causing the stock to drop.
+
+And just the other day, Dorsey sought to show critics that he cares about Twitter when he announced he would give 1/3 of his stake in the company to employees.
+
+We’ll see what Dorsey and Bain have to say about this most recent earnings report when Twitter once again broadcasts the conference call via Periscope.
+
+
+ 
+

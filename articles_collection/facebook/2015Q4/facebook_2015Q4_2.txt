@@ -1,0 +1,69 @@
+
+Facebook shares surged early Thursday after easily topping Wall Street's most optimistic estimates for both revenue and earnings in the fourth quarter.
+
+Shares of the social media giant jumped 14 percent in premarket trading. (Get the latest quote here.)
+
+The social media giant reported that it earned 79 cents per share on $5.84 billion in revenue in the quarter. The highest estimates on the Street had called for earnings of 75 cents and revenue of $5.67 billion, according to data from Thomson Reuters.
+
+On average, analysts had expected Facebook to report fourth-quarter earnings of about 68 cents a share on $5.37 billion in revenue, according to Thomson Reuters.
+
+"2015 was a great year for Facebook. Our community continued to grow and our business is thriving," Mark Zuckerberg, Facebook founder and CEO, said in the company's earnings release.
+
+CNBC
+Shares in the company jumped more than 12 percent in after-hours trading. Even the stock of social media competitors like LinkedIn and Twitter traded higher Wednesday after the bell.
+The company's fourth-quarter earnings per share rose 46 percent from 54 cents the year-ago period, and its revenue was nearly 52 percent higher than the $3.85 billion it recorded in Q4 2014.
+
+In total for the full year 2015, Facebook said its revenue came in at $17.93 billion — an increase of 44 percent year-over-year.
+
+"It's doom and gloom all around us and these guys are just killing it," Kevin Landis, CEO and chief investment officer at Firsthand Capital Management, told CNBC's "Closing Bell." "One of the really impressive things about this is: Look at all the other companies in this space, and there's train wreck out there."
+
+Facebook also topped estimates for its users, reporting that it saw total monthly active users (MAUs) at about 1.59 billion by the end of the quarter. Wall Street was looking for the social media giant to report total MAUs of about 1.58 billion.
+Facebook monthly active users (MAUs)
+MAUs in billions at end of each quarter
+
+
+Focusing in on mobile users, the company said it saw 1.44 billion mobile MAUs — which beat the Street's expectation of 1.43 billion, according to StreetAccount.
+
+For the first time, more than 90 percent of both monthly and daily active users were on mobile, according to the company.
+
+On the company's earnings call, Zuckerberg said users watch 100 million hours of video daily on the platform, and that the company is "exploring ways to give people a dedicated place on Facebook for when they just want to watch videos" — potentially hinting at a competitor for Alphabet's YouTube.
+
+The CEO also said the company is working to improve its Facebook Lite app for low bandwidth environments (like in developing countries), and that it now has more than 80 million users.
+
+Speaking with CNBC after the quarterly announcement, Facebook COO Sheryl Sandberg said she sees consumers making the shift to mobile, and that the company is no longer having conversations with business about if they should advertise on mobile, but how to best employ the platform.
+"Certainly economic uncertainty in the broad macroeconomic environment affects all businesses, it affects our clients, it affects us, but that said we think we're really well positioned to continue to take advantage of and double down on the shift to mobile which is happening," she said. "We also know we have a lot of hard work ahead of us."
+
+ Jim Cramer on Mad Money.
+Cramer: I was a moron about Facebook
+On the advertising revenue, Facebook also beat analysts' average expectation of $5.15 billion — according to StreetAccount — with a blow-out $5.64 billion in the quarter. Mobile advertising revenue, meanwhile, came in at $4.51 billion, Facebook said, against expectations of $4.09 billion.
+
+Mobile advertising revenue represented about 80 percent of all ad revenue, the company said, compared to about 69 percent in the year-ago period. Ad impressions on mobile, meanwhile, increased 29 percent on a year-over-year basis, Facebook CFO David Wehner said, adding that 2015's final quarter was the first since Q3 2013 in which total ad impressions increased against the year-ago period.
+
+There are now more than 2.5 million active advertisers working with Facebook, Zuckerberg said on the call.
+
+For the fourth quarter, Facebook saw average revenue per user (ARPU) of about $3.73, while Wall Street had only expected $3.43, according to StreetAccount.
+
+"The revenue per user is an important number, but I always kind of look at usage more than users," said Martin Pyykkonen, senior research analyst at Rosenblatt Securities. "Facebook is getting to a deceleration in that, but the average revenue was still very strong."
+Despite the quarter's strong revenue figures, Wehner cited the strengthening U.S. dollar's "unfavorable impact" on the company's financials. Had exchange rates remained constant with the year-ago period's levels, total revenue would have been about $320 million higher, Wehner said on the call.
+
+That strong dollar will continue to affect comparisons, he predicted, saying that Facebook expects "to continue to face foreign exchange headwinds, especially early in the year, as we will be lapping periods where the dollar was relatively weaker than it is today."
+
+More broadly, Wehner predicted that the company will also face "tougher" comparisons throughout 2016 given the "remarkably strong advertising performance" last year.
+
+Looking at the global macroeconomic environment — which has recently given many companies trouble — Wehner said Facebook did not see anything in its fourth quarter that indicated "broad-based macro weakness" beyond currency effects.
+
+ A protest against Facebook's Free Basics initiative in Bangalore on January 2, 2016
+Facebook's troubles in India keep snowballing
+Beyond the flagship Facebook platform, investors also closely watch the growth of its WhatsApp and Instagram services. Earlier this month, WhatsApp said it would no longer charge annual subscription fees and would begin testing ways for users to communicate directly with businesses.
+
+"We are really pleased with the growth in the advertiser adoption on Instagram," Sandberg told CNBC, revealing that 98 of the company's top 100 Facebook marketers are also now on Instagram.
+On the call, Zuckerberg said WhatsApp ended the year with nearly 1 billion monthly active users.
+
+The company's moonshots are also in focus, with analysts wondering about the upside potential from its work in virtual reality and big data.
+
+"We believe it is entirely plausible that VR is the future of computing," Robert Peck, managing director and Internet equity analyst at SunTrust Robinson Humphrey, wrote in a recent note, adding it has "the potential to disrupt several diverse businesses."
+On the Oculus virtual reality platform, Zuckerberg didn't mince his words.
+
+"Yes I am happy. I don't show much joy, but I am happy," he said. "It's going to be gaming — for the beginning. That's the initial market...I think it's around 250 million people who have Xboxes, Playstations or Wiis. That's the initial market of folks who we think are going to be most interested in the early VR experiences, especially at some of the higher price points."
+
+"But the reason why we're interested in this, as the social company, is that we think this is going to be a new way that people interact," Zuckerberg explained. "We're very excited about that: That's going to be a big area of investment for us, and is ultimately, I think, going to change the way that we communicate, and live and work — in addition to how we play games."

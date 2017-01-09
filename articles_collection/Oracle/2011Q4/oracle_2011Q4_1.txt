@@ -1,0 +1,13 @@
+Oracle, which overall has posted modest earnings advances in the last year and missed Wall Street expectations for the first time last quarter, on March 20 turned in an earnings report that this time clearly beat analysts' projections.
+The world's largest provider of parallel database software filed Q3 2012 revenue of $9.04 billion, a 2.2 percent increase from $8.81 billion a year ago. This equated to 62 cents per share, up 8 cents from the same period in 2011.
+ The Challenges of Cloud IntegrationDownload Now
+Net income was up 18 percent to $2.5 billion. A Thomson Reuters group of analysts had projected Oracle earnings of 56 cents per share on revenue of $9.024 billion.
+
+ 
+Sales of database and data center middleware software are serving the company well, but the hardware side -- most of which came to Oracle in the January 2010 acquisition of Sun Microsystems -- continues to have its issues. 
+Oracle Co-President Safra Catz said that quarterly sales of new software rose 7 percent from a year earlier to $2.4 billion, which hit the company's key third-quarter goal after missing targets in its second quarter.
+Hardware Sales Still Problematic
+However, hardware product sales -- including servers, storage and networking equipment -- fell 16 percent to $869 million. Nonetheless, Co-President Mark Hurd told listeners on the conference call that the company has a "record pipeline going into Q4" for future sales of physical data center equipment.
+Oracle is banking heavily on selling an increasing number of its new Exalogic and Exadata servers. CEO and co-founder Larry Ellison said his company has sold about 200 of these systems in Q2 and was aiming at selling 300 in Q3. Specific sales numbers were not made available.
+"We sold 200 of either Exadata- or Exalogic-engineered systems in Q2, and we expect to sell 300 in Q3, and 400 in Q4," Ellison said. "When we get to that [400] level, this becomes a $1 billion business."
+Exadata server systems, loaded with high-end Infiniband connectivity, typically sell for $1 million or more. Exalogic analytics servers are also as expensive, and with various types of analytics services now available for much less in the form of cloud delivery, some potential customers may have been turned off by that rich of an investment. 

@@ -1,0 +1,25 @@
+Oracle just reported its Q1, 2017 earnings and the news isn't great.
+
+It reported:
+
+Q1 EPS $0.55 vs estimates of $0.58, a miss.
+It also reported revenues of $8.6 billion vs expectations of $8.7 billion, also a miss.
+Stock is just a tad down in after-hours trading.
+
+The bigger news is how well Oracle is doing with its cloud sales. That's been the company's major focus. It has said it wants to hit $10 billion in sales before Salesforce does. That's a tall order. Salesforce is on track to do $8.3 billion in revenue at the end of this fiscal year. 
+
+Meanwhile, Oracle reported cloud revenues up 79%. That's healthy growth, but doesn't put Oracle on track to hit $10 billion before Salesforce. The company says it expects to do $2 billion this year in software as a service and platform as a service cloud revenues. It also has a new cloud that competes with Amazon's Web Services, but its the smallest of Oracle's cloud businesses.
+
+Here's the press release.
+
+REDWOOD SHORES, Calif., Sept. 15, 2016 /PRNewswire/ -- Oracle Corporation (ORCL) (NYSE: ORCL) today announced fiscal 2017 Q1 results. Total Revenues were $8.6 billion, up 2% in U.S. dollars and up 3% in constant currency. Cloud plus On-Premise Software Revenues were $6.8 billion, up 5% in U.S. dollars and up 6% in constant currency. Cloud software as a service (SaaS) and platform as a service (PaaS) revenues were $798 million, up 77% in U.S.dollars and up 79% in constant currency. Total Cloud Revenues, including infrastructure as a service (IaaS), were $969 million, up 59% in U.S. dollars and up 61% in constant currency. Operating Income was $2.6 billion and Operating Margin was 31%. Non-GAAP Operating Income was $3.4 billion and non-GAAP Operating Margin was 39%. Net Income was $1.8 billion while non-GAAP Net Income was $2.3 billion. Earnings Per Share was up 10% to $0.43, while non-GAAP Earnings Per Share was up 4% to $0.55. GAAP and non-GAAP Earnings Per Share was negatively impacted by three factors: 1 cent because of a higher tax rate due to more cloud sales being in the U.S, half of one cent because of borrowing, and 1 cent due to strengthening of the U.S. dollar. 
+
+Short-term deferred revenues were $9.5 billion, up 4% in U.S. dollars and up 5% in constant currency compared with a year ago. Operating cash flow on a trailing twelve-month basis was $13.7 billion.
+
+"Our Cloud business plus our On-Premise Software business grew 7% in constant currency in the first quarter, on a non-GAAP basis," said Oracle CEO,Safra Catz.  "The overall top-line growth of our two strategic businesses was driven by non-GAAP SaaS and PaaS revenue growing 82% in constant currency, substantially outperforming our guidance. As our SaaS and PaaS business continues its rapid growth, we expect its gross margins to climb from 62% this quarter toward our 80% target."
+
+"This year we are on track to sell more than $2 billion of SaaS and PaaS annually recurring revenue," said Oracle CEO, Mark Hurd. "We believe this will be the second year in a row that Oracle has sold more SaaS and PaaS than any cloud services provider.  In the first quarter alone, we added more than 750 new SaaS customers including 344 new SaaS Fusion ERP customers – that's more ERP customers than Workday has sold in the history of their company."
+
+"Next week at Oracle OpenWorld, we will introduce the second generation of our Infrastructure as a Service," said Larry Ellison, Oracle Chairman and CTO. "Our Generation2 IaaS delivers twice the compute, twice the memory, four times the storage and ten times more I/O at a 20% lower price than Amazon Web Services. IaaS represents a huge new cloud opportunity for Oracle to layer on top of our rapidly growing SaaS and PaaS businesses."
+
+The Board of Directors also declared a quarterly cash dividend of $0.15 per share of outstanding common stock. This dividend will be paid to stockholders of record as of the close of business on October 12, 2016, with a payment date of October 26, 2016.

@@ -1,0 +1,40 @@
+The company accelerated its revenue growth in the second quarter, delivering a 59% increase that blew past Wall Street targets and sent its shares rocketing up 8% to a new all time high in after hours trading on Wednesday.
+
+The stock is now only up about 5.5%, likely related to Facebook cautioning investors that it doesn't expect as much growth in the coming quarters.  
+
+Here are the most important numbers:
+
+Q2 earnings per share (adjusted): $0.97 vs expectations of $0.82
+Q2 revenue: $6.44 billion versus $6.02 billion expected, up 59% year-over-year
+Q2 monthly active users: 1.71 billion (1.69 billion expected), an increase of 15% year-over-year
+Q2 daily active users: 1.13 billion (1.12 billion expected), up 17% year-over-year
+The ratio of DAUs and MAUs — the best way to measure Facebook's engagement — held steady at 66%, despite worries from Wall Street that increased competition from the likes of Snapchat is stealing away people's attention. Facebook CEO Mark Zuckerberg also said on the company's earnings call that time spent on its suite of apps had "increased double digit percentages" year-over-year. The last update he gave was last quarter, when he revealed that people were spending a stunning 50 minutes a day on its apps, discluding WhatsApp. 
+
+Once again, the company's growth is particularly strong on mobile, where it saw 1.03 billion of its DAUs (up 22% year-over-year) and 1.57 billion of its MAUs (up 20% year-over-year). No surprise, about 84% of Facebook's advertising revenue came from mobile, up from about 76% in Q2 2015.
+
+Facebook DAU
+Facebook
+
+One less sunny moment of Facebook's earnings call was when CFO David Wehner said that Facebook expects that it will see lower growth rates in the next couple quarters, because it doesn't expect as big of an increase in ad load to help drive revenue. This quarter, Facebook saw a 49% increase in ad impressions, but it thinks it has almost reached the peak number of ads it can squeeze into your Newsfeed. 
+
+In light of the company's recent explosion in video, Facebook COO Sheryl Sandberg told Bloomberg that she's looking for short-form video content deals. This wouldn't be the first time Facebook has paid for content: It has divvied out more than $50 million to publications like Buzzfeed and Business Insider to experiment with its Live video platform. On the call, Zuckerberg said that video is "at the heart" of all its products, and he sees Facebook as "video first." 
+
+As usual, Facebook didn't specifically break out its Instagram ad revenue, but Zuckerberg said that the controversial decision to start ranking posts via algorithm led to an increase in both time spent and sharing. Although Facebook's main social network is driving most of its growth, it's also seeing "significant" growth from Instagram and its Audience Network.  
+
+Here are the other important numbers: 
+
+Total costs and expenses were $3.69 billion, up 33% year-over-year and capital expenditures were $995 million.
+Free cash flow for the first quarter of 2016 was $2.20 billion.
+Only 3% (197 million) of Facebook's revenue came from payments and other fees, down 8% year-over-year — the company attributed this decline to a drop in revenue from gaming apps.
+Most of Facebook's revenue comes from North America and Europe with about only 25% ($1.6 billion) coming from Asia-Pacific and the rest of the world. But those areas account for 67% of its monthly active users.  The average revenue per user in those regions is still tiny, compared to in the US: $1.77 and $1.13, respectively, versus $14.34 and $4.72 in the US and Europe.
+Facebook has 14,500 employees, up 32% year-over year 
+Here's a look at where Facebook makes its money:
+
+Facebook
+Facebook
+
+Sandberg talked a lot about how Facebook has seen an increase in the number of small businesses advertising on the site. There are now 60 million monthly active business pages. 
+
+Zuckerberg also addressed one of Wall Street's favorite topics: the commercial possibility of search. Right now, Facebook is seeing 2 billion searches per day, which is up from 1.5 billion at this time last year. Although he said that the site isn't trying to monetize yet, he did acknowledge that it has entered the second stage of its monetization evolution. (The company has said in the past that all Facebook products follow the same path: First, make it useful for regular users, then make it organically useful for business users, and finally, start charging business users.)
+
+Business Insider will be covering Facebook's results live, including its earnings call, so hit refresh or click here for the latest updates.

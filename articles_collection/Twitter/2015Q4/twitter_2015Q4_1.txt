@@ -1,0 +1,22 @@
+It’s a big day for Twitter. While still scrambling to recover from the late-January departure of four key execs, the company began rolling out their controversial algorithmic timeline today, and, this afternoon, also announced quarterly fiscal fourth-quarter earnings for 2015.
+
+The beleaguered company posted fiscal fourth-quarter earnings for 2015, reporting revenue of $710 million and a net loss of $90 million. Compared to the same quarter last year, revenue grew by 90 percent, while net losses shrunk by 27 percent. Twitter said its base of advertisers swelled to 130,000, up 90 percent from the year before.
+
+These number bested Wall Street expectations, but unfortunately, while the financials improved, Twitter's active user base was flat to negative. It had 320 million active monthly users this quarter, the same as last quarter. And when you exclude the SMS Fast Followers, international users that have a SMS version of Twitter, its active user base actually declined from 307 million monthly active users to 305 million. The company directly addressed the issue of user growth in its investor letter. "We are going to fix the broken windows and confusing parts, like the .@name syntax and @reply rules, that we know inhibit usage and drive people away."
+
+View image on Twitter
+View image on Twitter
+ Follow
+ Jason Abbruzzese ✔ @JasonAbbruzzese
+So Twitter user growth (excluding SMS) has now declined. Brutal.
+1:29 PM - 10 Feb 2016
+  244 244 Retweets   93 93 likes
+In an attempt to shape its narrative in a positive direction, the company laid out its core goals in its letter to investors. "We have five priorities in 2016 to serve this focus: refinement of our core service; live streaming video; our creators and influencers; safety; and developers. Each is critical to us strengthening our platform and audience around live." CFO Anthony Noto said that while user growth was stagnant, key metrics like retweets, direct messages, and engagement time had all risen significantly during 2015.
+
+Despite the fact that its user base is stagnant, or even slipping, Twitter remains dedicated to the idea that it could one day be the world's largest social network, or perhaps something a little different, which it's now calling a "connected audience."
+
+"We're focused now on what Twitter does best: live. Twitter is live: live commentary, live connections, live conversations. Whether it’s breaking news, entertainment, sports, or everyday topics, hearing about and watching a live event unfold is the fastest way to understand the power of Twitter. Twitter has always been considered a "second screen" for what's happening in the world and we believe we can become the first screen for everything that's happening now. And by doing so, we believe we can build the planet’s largest daily connected audience. A connected audience is one that watches together, and can talk with one another in real-time. It's what Twitter has provided for close to 10 years, and it’s what we will continue to drive in the future."
+There are good and bad things here. Twitter could be shifting the focus to its continually improving financial performance or its continued relevance in the world of media, entertainment, politics, and sports. It could highlight how the conversations that happen there, while not as universally appealing as baby pictures on Facebook, often set the topic of conversation across the internet. Striving to be the world's largest audience is setting a bar Twitter is unlikely to reach. Focusing on its speed, and its primacy in the live conversation, on the other hand, seems like a much smarter approach. If there is one thing Twitter still has over Facebook, it's the service's uniquely rapid metabolism.
+
+On a call with analysts this afternoon Dorsey said that the company planned to invest heavily in the technology that powers Periscope. Unfortunately the live stream of Twitter's earnings call, which was broadcast on Periscope, appeared upside down and sideways to many viewers.
+

@@ -1,0 +1,27 @@
+Facebook has just posted its earnings for the quarter that ended March 31, 2013. Facebook hit $1.46 billion in revenue up 38% from Q1 2012, beating Wall Street estimates of sales of $1.44 billion. Facebook reported earnings of $1.06 billion for the same quarter a year ago. Earnings per shared missed estimates, staying flat at $0.12 (analysts had expected earnings per share of $0.13.
+
+Net income was up 7% to $219 million, versus $205 million a year ago (GAAP figures).
+
+While revenue only grew slightly, the amount of its 1.11 billion monthly users that returned daily, 665 million, was slightly better than last quarter. For more details on user growth, read our post by Drew Olanoff.
+
+Facebook also noted in an SEC filing issued today that Chief Accounting Officer David Spillane is leaving the company. Spillane had been the company’s revenue controller since 2008, overseeing growth and IPO. He is getting replaced by Jas Athwal effective May 10.
+
+Initial reactions from the stock market were mildly positive, with the Facebook’s share price increasing slightly in after-hours trading just after the earnings were released, though the price had fallen 1.22% and closed at $27.43.
+
+The percentage of Facebook’s total ad revenue that came from mobile surged to 30%, up from 23% last quarter. Read more on Facebook’s mobile progress from Kim-Mai Cutler.
+
+Last quarter, Facebook posted earnings of $1.59 billion, a rise of 40% year-over-year. Last quarter the company had 1.1 billion monthly users, 618 million daily users, and 680 mobile monthly million, up 57% year-over-year.
+
+In the lead-up to today’s earnings, there were a lot of expectations about how Facebook would perform performing around some key metrics.
+
+User numbers. As noted in the WSJ, one area where Facebook will be scrutinized will be in its proportion of daily to monthly active users. In Q4 the figure was 58.5% globally. Mark Mahaney of RBC Capital Markets told the newspaper that he expects that to go up to 59% but “anything less than 58% would be a negative for Facebook.” Elsewhere, there have been some reports of user attrition. However, Facebook hit a 60% daily to monthly users, showing slightly better engagement.
+
+The fact that Facebook saw a higher DAU/MAU ratio means that Facebook was more engaging this quarter than last, a strong sign rebuking critics who claim people are using the site less. However, Facebook’s user growth is currently coming predominantly from developing markets that don’t earn it nearly as much money as users in first-world markets like the United States.
+
+Advertising and payments. Last quarter Facebook’s ad revenue was $1.33 billion, up 41% on the year before, and payments revenue came in at $256 million. Facebook’s payments revenue in Q1 was $213 million, it’s biggest payment three-month quarter yet. [Correction: We originally said payments revenue fell, but that’s because Q4 2013 was a four-month quarter, irregularly boosting its revenue on the books.]
+
+Mobile. Last quarter mobile revenues revenues grew to make up 23 percent of the company’s total sales. Mobile revenues effectively equals mobile advertising, since gifts, also sold on mobile, are negligible. Next quarter, however, Facebook will start making another revenue stream in mobile by way of Parse, the mobile development platform. Parse has around 60,000 developers, and offers a freemium model based on usage, with the cheapest paid version priced at around $199 per month. This was still a relatively small business when it was acquired last month for a price believed to be around $85 million so it’s not likely to grow and become a significant revenue source for another couple of years. Another specific area proving to be a significant driver within Facebook’s mobile ads business are app install ads, where app publishers pay a fee for an add to appear in a person’s mobile news feed.
+
+Facebook Home; Graph Search. This past quarter saw the launch of two major initiatives for the company, Facebook Home on mobile and Graph Search, the “third pillar” after News Feed and Timeline, according to CEO Mark Zuckerberg. Facebook Home saw a little surge of interest with 500,000 downloads in its first five days across a limited amount of devices that currently support it.
+
+The earnings call is at 2pm PT; we’ll be listening in and reporting on that.

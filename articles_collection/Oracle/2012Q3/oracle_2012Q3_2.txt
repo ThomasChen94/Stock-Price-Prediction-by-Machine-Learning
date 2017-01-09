@@ -1,0 +1,35 @@
+It is hard to watch the continuing decline in the Oracle systems business and not be concerned, but that is precisely what Oracle co-founder and CEO Larry Ellison wants you to do. Oracle is focusing on making the Sun businesses it has pruned (as distinct from the ones it has culled) profitable, and will worry about growth later. Like two quarters from now.
+
+That, explained Ellison, is the situation in a nutshell, which he put in the statement accompanying the software giant's financial results for its second quarter of fiscal 2013 ended in November.
+
+"Sun has proven to be one of the most strategic and profitable acquisitions we have ever made," Ellison said. "Sun technology enabled Oracle to become a leader in the highly profitable engineered system segment of the hardware business. I believe that products like Exadata and the Sparc SuperCluster will not only continue to drive improved profitability in our hardware business, by the end of this fiscal year, they will also drive growth in our hardware business."
+
+Wall Street would certainly like to believe that, and given Oracle's ability to do acquisitions, make them work, and squeeze profits out of them, there is good reason to believe that the company will reverse the tide and start growing again.
+
+In a conference call with Wall Street analysts after the market closed on Tuesday, Ellison said that the hardware business would turn the corner in Oracle's fiscal third quarter, which ends in February, and would see top-line growth in the fiscal fourth quarter ended in May – and all with expanding margins. "We're just about finishing with the downsizing phase," Ellison said cheerfully.
+
+On the software front, Oracle is humming along and doing better than even its own guidance for the quarter, more than offsetting its hardware transitions. Overall sales rose by 3 per cent to $9.09bn, so the gainers beat the losers, and the company's net income was up 18 per cent to $2.58bn.
+
+Hardware systems products sales fell by 23 per cent, to $734m, and support revenues on the installed Oracle/Sun hardware base fell by 6 per cent to $587m. Add them up, and the combined hardware systems sales fell by 16 per cent to $1.32bn.
+
+Operating expenses for hardware systems fell by 22 per cent to $367m and for hardware systems support fell by 12 per cent to $227m, so technically speaking, the overall hardware business was more profitable in the quarter compared to the year-ago period.
+
+Operating margins as a percent of revenue rose by 1.2 points to 55 per cent in the quarter. Oracle is learning how to be a more profitable systems vendor. But it is doing so by sacrificing both revenue and profits that are not quite at this level.
+
+Mark Hurd, co-president at Oracle in charge of the sales team, said that revenues from engineered systems – by which Oracle means stacks of servers, storage, and switching tuned to run specific software workloads – rose by 70 per cent sequentially and that over 700 such systems sold in the quarter.
+
+Exalytics in-memory processing appliances nearly doubled their sales sequentially (they weren't yet shipping a year ago), and the Sparc T series entry and midrange Solaris servers were singled out as growing faster than they did in the prior quarter.
+
+Oracle did not break out sales of Solaris and Linux systems, or engineered versus freestanding and generic systems, but it seems likely that the traditional Sparc/Solaris business is continuing to decline as the engineered boxes are gaining traction. There is no other way to explain the stunning hardware sales declines.
+
+Oracle's professional and other services generated $1.12bn in revenues in fiscal Q2, down 5 percent, so the declines are not just about hardware and related support that is tied to systems. Oracle is seeing a pinch in services, just like all of the other IT players with captive services arms.
+
+But Oracle's key software business turned in a very good quarter, and against a relatively tough compare, too. New software license and cloud subscriptions, which are lumped together, accounted for $2.39bn in revenues, up 17 per cent.
+
+On the call, Safra Catz, the other Oracle co-president and also the company's CFO, said that cloud software subscriptions drove $230m of that revenue and is growing fast. But not enough to even begin to make a dent in software license updates and product support sales, which added another $4.26bn to the kitty, up 7 per cent from the year-ago period.
+
+Total software sales rose by 10 per cent to $6.65bn. Catz added that new license sales, which are a kind of leading indicator for the IT economy, were up 22 per cent in the Americas, up 13 per cent in Asia/Pacific, and up 12 per cent in EMEA. Database, middleware, and application software all saw double digit growth. If there is a fiscal cliff, Oracle hasn't seen it.
+
+"We are having an absolutely wonderful December," Catz said. "Things are going really well and folks want to close deals."
+
+Looking ahead to Q3 of fiscal 2013, Catz said to expect new software license sales to be up by between 3 and 13 per cent, with hardware systems sales anywhere between down 10 per cent to flat. Total revenues will be up somewhere between 1 and 5 per cent and GAAP earnings per share should fall between 51 and 53 cents. ®

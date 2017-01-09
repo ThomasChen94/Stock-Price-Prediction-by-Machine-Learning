@@ -1,0 +1,43 @@
+Oracle Corp.'s revenue growth stalled for the second straight quarter, sending the tech giant's shares tumbling on concerns about demand for its business software and competition from online offerings.
+
+ENLARGE
+Oracle lifted its profit 10% in the fiscal fourth quarter ended May 31, doubled its quarterly dividend and authorized a stock buyback of up to $12 billion.
+
+But the moves seemed to do little to assuage shareholders; the stock fell nearly 9% to $30.32 in after-hours trading Thursday. The stock had fallen 2.6% during the regular 4 p.m. trading session.
+
+Oracle's third-quarter results, released in March, also showed no revenue growth, likewise triggering a sharp drop in its shares. At the time, the company blamed an expansion of its sales force, saying new personnel would do better at closing sales in the fourth quarter, traditionally the company's strongest in volume terms.
+
+NOW REPORTING
+
+Track the performances of 150 companies as they report and compare their results with analysts' estimates. Sort by date and industry.
+
+
+More photos and interactive graphics
+Safra Catz, Oracle's co-president, said the performance of the sales force and other operations "improved significantly" in the fourth period. But sales didn't increase as expected in some regions, including China, Brazil and Australia.
+
+"That was extremely disappointing for us because May is usually our very, very big and important month," Ms. Catz said during a conference call with analysts.
+
+Oracle, based in Redwood Shores, Calif., became a tech giant by selling on-premises software, including databases that serve as a foundation that companies and governments use to run their operations. Now, some analysts argue the company's growth is being hampered by the rise of new competitors selling software as a service.
+
+MONEYBEAT
+
+Oracle Ditches Nasdaq for NYSE
+Oracle, has built its own "cloud" offerings, as they are called, as well as acquiring some specialists in that field. Mark Hurd, Oracle's other co-president, said most of around 500 new salespeople hired were devoted to the company's cloud offerings and were having a postive effect. He said Oracle's cloud business is bigger than that of Workday Inc., a prominent startup in the cloud field, and is growing more quickly.
+
+Mr. Hurd said Thursday that Oracle added 500 more customers of such online offerings in the fourth period—with revenue from some cloud offerings growing 50%—and said next week the company will make a series of announcements about partnerships "to drive our cloud business forward."
+
+So far, however, the results have been muted. Oracle said revenue from new software licenses and cloud subscriptions rose 1%.
+
+Meanwhile, the server-system business that came from Oracle's acquisition of Sun Microsystems Inc., continues to shrink in total, though some product lines are doing well, Oracle said. Revenue for hardware-systems products fell 13% to $849 million in the fourth quarter.
+
+Larry Ellison, Oracle's chief executive, said the company sold more than 1,200 of a category of its servers called "engineered systems" that combine hardware with Oracle software. He vowed that the hardware business would grow in the current fiscal year and possibly by the end of the fiscal first quarter.
+
+As for the planned cloud partnerships, Mr. Ellison said they will be "startling" and include rival companies such as Microsoft Corp. and Salesforce.com."
+
+Overall, the company posted a fourth-quarter profit of $3.81 billion, or 80 cents a share, up from $3.45 billion, or 69 cents a share, a year earlier. Excluding stock-based compensation, acquisition costs and other effects, per-share earnings rose to 87 cents from 82 cents. Revenue edged up 0.3% to $10.95 billion.
+
+Oracle in March had projected adjusted earnings of 85 cents to 91 cents a share and projected revenue to range from a decline of 1% to growth of 4%.
+
+The company, a longtime mainstay of the Nasdaq Stock Market, also said Thursday that it will move to the New York Stock Exchange in mid-July.
+
+For the current quarter, the company forecast new software license and subscription revenue would be in a range from no growth to 8% growth, assuming no change in currency valuations. It projected a range for hardware revenue of a decline of as much as 6% to growth of 2%.

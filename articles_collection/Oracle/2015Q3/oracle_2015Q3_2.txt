@@ -1,0 +1,45 @@
+Oracle just reported its Q2 earnings and we're sifting through them now.
+
+It reported:
+
+$9 billion revenue, vs. expectations of $9.06 billion in revenue. That's a miss.
+$0.63 EPS vs. expectations of $0.60 in earnings per share (EPS). That's a beat.
+Last year, Oracle had $0.69 EPS and $9.61 billion in revenue, so analysts were expectating the company to decline in both sales and profit.
+
+That's because Oracle is now focused on building up its cloud computing businesses as fast as it can. And with cloud, revenue is billed on a subscription basis, typically over a couple of years, and recognized as it is collected.
+
+With old-school software licenses, more revenue is recognized immediately. So as Oracle builds its cloud business, revenues will at first decline, until it's billing enough SaaS customers to make up the difference.
+
+So it's not surprising with this quarterly earnings, Oracle is emphasizing the number of customers it signed up for cloud computing, in particular the higher-margin software subscription business (known as Software-as-a-Service or SaaS) and the higher-margin app development/hosting business (known as Platform-as-a-Service or PaaS).
+
+Oracle says it brought in 612 new SaaS customers.
+
+Oracle has also recently announced several services that compete head-on with 800-pound cloud computing gorilla Amazon Web Services, but not all of the services it announced are up and running. So we didn't expect to see Oracle tout its revenues in this area of cloud computing, known as Infrastructure as a Service (IaaS). And it didn't.
+
+A spokesperson tells Business Insider that the company plans to double margins on SaaS and PaaS cloud services over the next two years.
+
+Here's the press release:
+
+Oracle Reports GAAP EPS of $0.51; Non-GAAP EPS of $0.63
+
+Cloud SAAS and PAAS Revenues Up 34% in U.S. Dollars and Up 39% in Constant Currency
+
+REDWOOD SHORES, CA--(Marketwired - Dec 16, 2015) - Oracle Corporation (NYSE: ORCL) today announced fiscal 2016 Q2 results. The strengthening of the U.S. dollar compared to foreign currencies had a significant impact on results in the quarter.
+
+Total Revenues were $9.0 billion, down 6% in U.S. dollars and unchanged in constant currency.
+
+Cloud plus On-Premise Software Revenues were $7.0 billion, down 4% in U.S. dollars and up 2% in constant currency. Total Cloud Revenues were $649 million, up 26% in U.S. dollars and up 31% in constant currency. Cloud software as a service (SaaS) and platform as a service (PaaS) revenues were $484 million, up 34% in U.S. dollars and up 39% in constant currency.
+
+Cloud infrastructure as a service (IaaS) revenues were $165 million, up 7% in U.S. dollars and up 11% in constant currency. Total On-Premise Software Revenues were $6.4 billion, down 7% in U.S. dollars and unchanged in constant currency. Total Hardware Revenues were $1.1 billion, down 16% in U.S. dollars and down 10% in constant currency. Total Services Revenues were $861 million, down 8% in U.S. dollars and unchanged in constant currency.
+
+Operating Income was $3.0 billion and Operating Margin was 33%. Non-GAAP Operating Income was $3.7 billion and non-GAAP Operating Margin was 41%. Net Income was $2.2 billion while non-GAAP Net Income was $2.7 billion. Earnings Per Share was $0.51, while non-GAAP Earnings Per Share was $0.63. Without the impact of the U.S. dollar strengthening compared to foreign currencies, Oracle's reported GAAP Earnings Per Share would have been 5 cents higher and non-GAAP Earnings Per Share would have been 6 cents higher.
+
+Short-term deferred revenues were $7.0 billion, up 3% in U.S. dollars and up 9% in constant currency compared with a year ago. Operating cash flow on a trailing twelve-month basis was $12.9 billion.
+
+"We're very pleased with our non-GAAP EPS of $0.63, beating the mid-point of guidance by 4 cents despite a stronger than expected currency headwind," said Oracle CEO, Safra Catz. "We grew our SaaS and PaaS revenue 38% in constant dollars this past quarter, and we expect that revenue growth rate to accelerate to nearly 50% in Q3 and close to 60% in Q4. This rapid increase in our cloud revenue will help drive our SaaS and PaaS cloud gross margins from 43% in Q2 to approaching 60% in Q4 and drive significant EPS growth in Q4."
+
+"It was a very strong growth quarter for our cloud business, with SaaS and PaaS bookings up 75% in constant currency and billings up 68% in U.S. dollars," said Oracle CEO, Mark Hurd. "We did 100 Fusion HCM deals and over 300 Fusion ERP deals in the quarter. We now have more than 1,500 ERP customers in the cloud -- that's at least ten times more ERP customers than Workday."
+
+"We are still on-target to sell and book more than $1.5 billion of new SaaS and PaaS business this fiscal year," said Oracle Executive Chairman and CTO Larry Ellison. "That is considerably more SaaS and PaaS new business than any other cloud services provider including salesforce.com."
+
+The Board of Directors also declared a quarterly cash dividend of $0.15 per share of outstanding common stock. This dividend will be paid to stockholders of record as of the close of business on January 6, 2016, with a payment date of January 27, 2016.

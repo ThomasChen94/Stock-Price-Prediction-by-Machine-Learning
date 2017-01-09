@@ -1,0 +1,42 @@
+Twitter shares fell Wednesday after-hours as the company revealed that its user numbers had declined sequentially.
+
+The company reported fourth quarter earnings of 16 cents per share on $710 million in revenue. Analysts had expected Twitter to report earnings of about 12 cents per share on $710 million in revenue, according to a consensus estimate from Thomson Reuters.
+
+Shares were down more than 11 percent in after-hours trade following the announcement of Twitter's quarterly results, but then pared much of those losses.
+
+Twitter monthly average users (MAUs)
+In millions, not including SMS-only users
+
+Twitter said its monthly active users (MAUs) excluding SMS-only users were 305 million for the fourth quarter, down from 307 million in the previous quarter.
+
+"We saw a decline in monthly active usage in Q4, but we've already seen January monthly actives bounce back to Q3 levels. We're confident that, with disciplined execution, this growth trend will continue over time," the company wrote in a shareholder letter.
+
+Wall Street had expected the company to report MAUs excluding SMS Fast Followers of about 309 million for the quarter, according to StreetAccount.
+
+Twitter explained that the fourth quarter saw "positive impacts from our marketing initiatives which contributed meaningfully to MAU growth; however, these were more than offset by organic declines, partially due to fourth quarter seasonal trends."
+
+During Twitter's earnings broadcast, CFO Anthony Noto said the company is seeing "new users, resurrected users, and improvement in retention."
+
+In fact, he revealed that new MAUs in the fourth quarter actually grew sequentially. Daily active users were roughly flat in the period, he added, explaining that means those who left the platform were not particularly "high quality" from an advertising perspective.
+
+
+Firsthand Funds CIO and portfolio manager Kevin Landis told CNBC's "Closing Bell" that the decline in Twitter's MAUs is "uncharted territory for them."
+"The product is essential for those who tweet. The product is not essential for those who simply check their Twitter feed," said Landis, who owns Twitter in the Firsthand Technology Opportunities Fund and was also a pre-IPO investor in Twitter, said.
+
+In terms of user engagement, Noto said the company has seen year-over-year increases in time spent on the platform (both in aggregate and per user), searches and direct messages.
+
+On the revenue side, $710 million for the quarter represented a 48 percent increase against $479 million in the year-ago period.
+
+Advertising revenue totaled $641 million, a 48 percent year-over-year jump, but less than the $647.7 million expected by Wall Street, according to StreetAccount.
+
+Twitter also disappointed Wall Street on guidance, saying it expects first quarter revenue between $595 million and $610 million — analysts had estimated about $633 million, according to StreetAccount.
+
+The social media company said it saw a 153 percent year-over-year increase in ad engagement during the fourth quarter, but it recorded a 41 percent decrease in cost per engagement (CPE) against the comparable year-ago period. Twitter attributed that fall to "the shift to auto-play video, which delivers more engagement at a much lower average CPE than click-to-play video ads."
+
+Twitter just changed its timeline tool. Here's what's new
+Shares in the social media company have fallen about 68 percent over the last year, suffering on reports of leadership turmoil and stagnating user growth.
+
+On Wednesday morning, the company announced that it would adjust how its timelines can work, giving users the option to activate algorithmic tweet sorting. Twitter has emphasized that the option for a non-chronological experience is strictly opt-in.
+
+But the long-expected timeline changes are just one of a series of tweaks reportedly under consideration at Twitter — including upping the 140-character tweet limit to 10,000.
+Correction: Landis owns Twitter in the Firsthand Technology Opportunities Fund. An earlier version misstated the name of the fund.

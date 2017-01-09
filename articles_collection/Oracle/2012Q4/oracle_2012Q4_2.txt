@@ -1,0 +1,48 @@
+Where Oracle Missed	Oracle's Big Miss: What Happened?  
+Wednesday, 20 Mar 2013 | 4:02 PM ET
+Oracle forecast a return to growth in new software sales this quarter, after blaming its rapidly expanding salesforce for a severe miss in third-quarter revenue that drove its shares 8 percent lower on Wednesday.
+
+The world's No. 3 software maker projected a 1 to 11 percent rise in new software licenses and Internet-based subscriptions in the May quarter, following a 2-percent slip in the February quarter that badly missed Wall Street's targets.
+
+Executives ascribed the miss mainly to a poor salesforce performance.
+
+"What we really saw was the lack of urgency we sometimes see in the sales force, as Q3 deals fall into Q4," Chief Financial Officer Safra Catz told analysts on a conference call.
+
+"Since we've been adding literally thousands of new sales reps around the world, the problem was largely sales execution, especially with the new reps as they ran out of runway in Q3."
+
+Wall Street remains concerned about tepid spending by governments and corporations in an uncertain global environment, but Catz dismissed those fears.
+
+Oracle is also facing greater competition in cloud or Internet-based software from the likes of International Business Machines and SAP and nimbler rivals like Salesforce and Workday.
+
+Oracle posted a 2-percent drop in new software sales and Internet-based software subscriptions to $2.3 billion in its fiscal third quarter, well below Wall Street's and its own projections. Investors scrutinize new software sales because they generate high-margin, long-term maintenance contracts and are an important barometer of future profit.
+The company had forecast a 3 to 13 percent jump in new software license and cloud-subscription revenue.
+
+"It doesn't help that the sequester deadline is on the last day of our quarter, and so that has a little bit of an impact here in North America, but not necessarily anywhere else," Catz said. "The economy has been as it is in Europe for a while."
+
+Net income rose slightly to $2.504 billion, or 52 cents a share, in the fiscal third quarter from $2.498 billion, or 49 cents a share, in the year-earlier period.
+Excluding items, earnings rose to 65 cents per share from 62 cents a share in the year-earlier period.
+Revenue decreased to $8.97 billion from $9.06 billion a year ago.
+
+The U.S. dollar strengthening against foreign currencies chipped off 1 percent from revenue, the company said in a statement.
+
+Analysts had expected Oracle to report earnings excluding items of 66 cents a share on $9.38 billion in revenue, according to a consensus estimate from Thomson Reuters.
+
+"Generally it's a pretty big miss overall," said Brendan Barnicle, an analyst at Pacific Crest.
+After the announcement, the company's shares fell. (Click here to get the latest after-hours quote.)
+Oracle's revenue miss — about 4.4 percent below the average forecast — was its worst since the November quarter of 2011, when it fell short of target by 4.5 percent, according to Thomson Reuters data.
+
+Oracle
+Getty Images
+Revenue from Oracle's troubled hardware division, which it acquired through the $5.6 billion purchase of Sun Microsystems in January 2010, fell to $671 million from $869 million in the year-ago quarter. The company had predicted revenue would stay flat or fall 10 percent from a year earlier.
+
+The division's revenue has fallen every quarter since it closed the Sun deal. Chief Executive Larry Ellison has said he expected hardware-systems revenue to start growing in the fiscal fourth quarter, which begins March 1.
+
+"Pretty disappointing. Trying to find the silver lining here, looks like the software update and support business was better. But pretty disappointing on the hardware side of the business in particular. Came in at $671 million, consensus had been for $796 million. A pretty sizeable miss," Barnicle said.
+
+"On the hardware side they're facing the same headwinds that everybody in the hardware industry is facing, as you get more consolidation and commoditization of hardware," he said.
+
+Some investors still worry that governments and corporations around the globe may postpone spending on technology projects because of uncertainty over the economy, particularly in Europe.
+
+"Business sentiment and confidence is way down. People are more cautious right now in business than they are in the stock market. That's how we get veryhigh valuation multiples on stocks, but businesses are pulling back," said Richard Williams, an analyst at Cross Research.
+
+"We expect the turnaround to come in Q1 [2014] rather than Q4 [2013]" because of large number of product introductions, Oracle's CEO Larry Ellison said. He is also the largest shareholder—1.1 billion shares—and his stake dropped by $3 billion in after-hours trading.
