@@ -6,6 +6,5 @@ There 2 types of data:
 1. Financial report. Companies release their financial report every quarter, which is meaningful to stock price.
 2. Analytical articles. Many editorials will write analytical articles with respect to the financial report, which is also meaningful.
 
-## How to use
 
 
